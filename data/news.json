@@ -1,9 +1,175 @@
 {
-  "updated": "2026-05-23T01:00:00Z",
+  "updated": "2026-05-23T15:52:49Z",
   "categories": [
-    { "name": "AI 科技", "items": [] },
-    { "name": "台海 & 中美", "items": [] },
-    { "name": "科技公司", "items": [] },
-    { "name": "總體經濟", "items": [] }
+    {
+      "name": "AI 科技",
+      "items": [
+        {
+          "title": "兆級GPU時代！NVIDIA攜OpenAI、微軟打造下一代AI網路霸權| 財經 - Newtalk新聞",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43WldYeEx5TEV2QV85UWoyeGpnWUt5LWQzWFNUenp5UXkwSnR4MU0xQTZUOXB2eVRkNWRRMHNndEFqV0w5OE5jUnBRM1Z4R3R3U1VqRG91NjJkV2c?oc=5",
+          "source": "Google News",
+          "date": "2026-05-07T07:00:00Z"
+        },
+        {
+          "title": "NVIDIA與OpenAI千億美元投資談判破局 AI巨頭關係現變數 - Yahoo新聞",
+          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPZXU4Nlh1QWVmT010TFNDMHJSNEJxaWo5dEpoOS1DY3RIVXRwNTluT0h0OFdmd3BIYU5Gc2JLSnd1bUplVU5JS05DbnpmYVBiSTFIMTR5T0g0Uk1DR1JjT2hwYW55Q3Bxa0Vza2ExVTB4Qlc0Z0tIQkdNekdycGt4ODczWXFobS1hVUhxS0dYN3lHaXRnXzBqbm5kMnFPTHNkMWFzdUJtUHJ2QWVfS3ZKTlZZOW1MemVSTEtfVEdld3JkNjM2czMzNGI5TFlMdDBBS3BXUFhaYWRkNlpZNUZaTDBnTVZuUF9NZDlkQy1NMkFwZG1NUDd2QnB4Q2JNdEhidGNhNFZoaTNjVlZpSjh2YnlEQnpHanhTV2k3Q3JZV05fRjRjOFpNcWJWZ2J4RWJUQTZCTFhKVnVmdDhYMHBF?oc=5",
+          "source": "Google News",
+          "date": "2026-01-31T08:00:00Z"
+        },
+        {
+          "title": "OpenAI 與 NVIDIA 宣布建立策略合作夥伴關係，共同部署 10 吉瓦的 NVIDIA 系統。 - OpenAI",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81aG5reE1JSGNhSGF1dDFLM3EwMFlPNHNNdEdmc2d5U01hVS1pWURoUlEyNG5qY2wzai1OcmhRV25GcE14Z05BRW5vSzZJaUgtVjI4U0J1NWppc1hLSW1qQnl4ZVMybHFyWVJsbmZkZEFzdDhCYlE?oc=5",
+          "source": "Google News",
+          "date": "2025-09-22T07:00:00Z"
+        },
+        {
+          "title": "OpenAI 與 NVIDIA 宣布策略合作，部署 10 百萬瓩 NVIDIA 系統 - NVIDIA 台灣官方部落格-",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUx3b1R0N25fYlg2NlJfLUNiRTdRNHZvdUVVaWxlZEFZUHIwazI2dXZJWEhmQjU5aWt0NWZjX2lOdWhDajMzMDJna0lFalBMa3BNeDlRc0YtZ1ZOV2tYZG1SVnFsVlNiRDg0UkNYQWNWOFBpRTNQVkR0NFZ4S29OUkpoNS1LZV9GX09FbDc0MzJFRjRERzdVLWpLWGpQTjN4aDgyTEtGaGs2Qmlrb2JOYUlQTlU1Zw?oc=5",
+          "source": "Google News",
+          "date": "2025-09-22T07:00:00Z"
+        },
+        {
+          "title": "阿特曼駁OpenAI尋替代方案：輝達仍是最好的AI晶片 - rti.org.tw",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAycUh4ekxHLTVmRm5qaW45U1hvTjdDcjNBbzBoaEY0ZndEX0NZSEJfWHpQSTUwVEJIUHFCZFZwdWpGbkpUMUpBNEZKdHRZMWlFM2JoTXdVaw?oc=5",
+          "source": "Google News",
+          "date": "2026-02-03T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "台海 & 中美",
+      "items": [
+        {
+          "title": "這是玩哪一齣？特朗普的「台灣牌」是真是假？ - 《超越新聞網》",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kbzRfUV91WDhCX2g0YWlHR19hRk9CQWZyaXVrcUY3bl9EOFY4MlF6Z1BnTjMyS25pUEpLZE41aGZMVU9NZEdJbWdfWFY3eFNDZHVMbg?oc=5",
+          "source": "Google News",
+          "date": "2026-05-23T00:18:15Z"
+        },
+        {
+          "title": "川習會究竟「實質談成了什麼」？從台海議題到 AI 角力，美中峰會交鋒議題總整理 - 換日線 Crossing",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGSU5JUVRHT2FtTkVzNHhkS1JkNFQyVkZXNFVOQU9GMHZzV18yWWdtajdCTC1XNHF1ejIzLUx2NHZITzlac3QtQ0JjOVBCLXBENWc?oc=5",
+          "source": "Google News",
+          "date": "2026-05-18T08:02:53Z"
+        },
+        {
+          "title": "「川習會」後美中台海新默契？ 台灣如何在現實主義浪潮中自救 - 報新聞",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBENEtCaFN0SFFRYTUxQ2pHQlJ0blVhYTBUekFpREg3VzZaaDVnakY2ZDd2T3BaX1pxQjFmUThuNDJQZHBQY1RBVEhDdWE2RXQ1WGlrV0paX2xiRnlrNzFIWFhra0dMS0lK?oc=5",
+          "source": "Google News",
+          "date": "2026-05-19T10:34:36Z"
+        },
+        {
+          "title": "台灣應遊說提升《對台六項保證》法律位階 - 國防安全研究院",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhQUhfc2U2RGg2V0lRcXdfNVdkc3lEVWxQXzJUV2hpc01hUFBUX19TTGVVMlVGbTh4TENtYTNyQ1gySW5YOWRiRWNkZWZ4RG5nU2JPYWZaU2Z2SGtZa1JibktR?oc=5",
+          "source": "Google News",
+          "date": "2026-05-14T07:00:00Z"
+        },
+        {
+          "title": "新華社：習近平稱台灣是美中最重要問題 台海和平是最大公約數 - rti.org.tw",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxQ2pGSXZtYnlIdllJc3ZDTUMzVGx0NmlIUnpHekxIYzdKU1h5bG9SVUdPNF9QR3hsUDNWekgxZ3lKTjZkdEN2MHNMN3AzcDZoQjloWm1qVQ?oc=5",
+          "source": "Google News",
+          "date": "2026-05-14T07:00:00Z"
+        },
+        {
+          "title": "中國山西煤礦爆炸據報至少90死，我們目前已知道什麼？",
+          "link": "https://www.bbc.com/zhongwen/articles/c332jgrkypeo/trad?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 中文",
+          "date": "2026-05-23T10:18:32Z"
+        },
+        {
+          "title": "美國起訴卡斯特羅後，古巴局勢的三種可能",
+          "link": "https://www.bbc.com/zhongwen/articles/c1k2gm0xx31o/trad?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 中文",
+          "date": "2026-05-22T04:46:19Z"
+        },
+        {
+          "title": "分析：美中新建貿易、投資委員會，能否為關稅戰「加裝防撞欄」？",
+          "link": "https://www.bbc.com/zhongwen/articles/cm2prj02pdgo/trad?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 中文",
+          "date": "2026-05-22T08:52:03Z"
+        },
+        {
+          "title": "「我愛世界盃，但價格實在太離譜」：門票價暴漲五倍，球迷什麼反應？",
+          "link": "https://www.bbc.com/zhongwen/articles/cm2p1d71833o/trad?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 中文",
+          "date": "2026-05-22T08:00:44Z"
+        },
+        {
+          "title": "未來「正被推入黑暗」：從緬甸到委內瑞拉，民間如何抵抗官方網絡封鎖",
+          "link": "https://www.bbc.com/zhongwen/articles/cx21ywx9y2xo/trad?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 中文",
+          "date": "2026-05-22T00:20:48Z"
+        }
+      ]
+    },
+    {
+      "name": "科技公司",
+      "items": [
+        {
+          "title": "AI浪潮帶動產業南移 南科成台灣最具爆發力科技重鎮 - 蕃新聞",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vaVhjYWRKSE1acHF4YkQ5Z0M2MWNfUlRUMmJiUEwweW9SLXRaY09zUWJubXJUQ3pDeGkzTi15QUtsNGpXNG9aQ2dxZTlMWk5nWVE?oc=5",
+          "source": "Google News",
+          "date": "2026-05-22T05:31:00Z"
+        },
+        {
+          "title": "會是愚人節玩笑嗎？伊朗威脅攻擊包括輝達、微軟、蘋果等 18 家跨國企業 - TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ2VNUG1ldmVhTHFsTmZySDdRYjNsb3J6UE5vSGMzSi1BVWV4Y2UtdnNtR2xpU2lPb3FFZUgzMlhsd3NPTmdtLXNoR3IyRjdEWERWVWxYekx2V1Z2ZW44SGZpTUl0YzdlTTNfb01uMWhyd1ZJaVRZR0ZkdkZhMlpXUlBYa3ZJY3BkOG9DT0hiRmdTRm9vOEptQmw5TUpPZnBDN1ZNbUlnY2duN3FhbVkzeTJWV0EySEJ5elptZUl1RzQzc28?oc=5",
+          "source": "Google News",
+          "date": "2026-04-01T07:00:00Z"
+        },
+        {
+          "title": "輝達、Google創營收新高 AI浪潮推升那指標普再創新紀錄 - 科技新聞 - PChome Online 新聞 - PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0YwTHFJX3E0MGlQSmhYdFJNMkJqYmkzVkRZX21rV2JMN0ktMGpMdTltbGx4d2xvUDNsMEVJVnl0TGpIcW9fNjh6VFdtNlhZcThIRUh1cHoyNUlucEdFbVVUcDA1Yl9Ca2xZREVveXlnREFnWjNZcFNBdGFROVZYNlV5bFpzZWVnNHdjZQ?oc=5",
+          "source": "Google News",
+          "date": "2026-04-28T07:00:00Z"
+        },
+        {
+          "title": "台灣大哥大帶領用戶探索AI未來 參訪Apple、Google、Tesla等科技巨頭 - 中央社 CNA",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12WklSTXphZXBvVUxHMkpoQjlseE1QdW9Ma2tEM1Z1dHBUajc5LVRzbDB6SUJFLXJfUE82UlNZWUEwUDk4R0N1bVkxOEZWR0pMZy1UMkNR?oc=5",
+          "source": "Google News",
+          "date": "2025-07-11T07:00:00Z"
+        },
+        {
+          "title": "美科技7大巨頭裁員人數逾10萬人！一邊裁員 一邊搶才成常態？ - BusinessFocus",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ROU9FZVRnTkdkV0hQWmlydVJ5TU9WbU4yanpPTXdZcDBBTU5nRnM1UDlYT1lySm9DYmZOMzcxNWhpeHJ3NWJfQ1Q5TXJBVmJaLXNhYmYxeTkxd3FqY2VWeU5BcVRNMUxYMm0tTmNn?oc=5",
+          "source": "Google News",
+          "date": "2025-11-10T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "name": "總體經濟",
+      "items": [
+        {
+          "title": "美債避險神話動搖？美國30年期殖利率衝上5.18% 創2007年來新高 - news.cnyes.com",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1USER3OG1RY3BReDNtQXRDclp0U3dUZXhMRkZGVUJaRU1yQ245M2FDVU5scV91Q1NOWGpMRkxVUUJpNGU5QlNXc0RDUQ?oc=5",
+          "source": "Google News",
+          "date": "2026-05-19T14:10:09Z"
+        },
+        {
+          "title": "通脹擔憂引爆全球債市拋售　30年期美債收益率創19年新高 - ETtoday財經雲",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1USDc5M1Q5UDRfU2tpZjFxbEpQYWxNSHFCcWllNlZhLXdZckJScHVFckpWQ19DVE5FbThYZllNTEJCenNoTUpvc3Zsb3JqWF9ralHSAW5BVV95cUxPN1RaN1Z2Y1RWUW9rQm1fRHFiZE1WUHRYclhBc2N0eGRwZzFNV3ZwZjZPYXlTWllmZDE4S01UaXMyd25teW5ELUd3SXpORlJWbXI3OUlMRHdFTDFWRE95TzRCbkRDY2RsaTVsNU5Zdw?oc=5",
+          "source": "Google News",
+          "date": "2026-05-20T03:57:00Z"
+        },
+        {
+          "title": "通膨油價雙重壓力 美債殖利率飆升牽動全球股市與川普政策 - 財經新聞 - PChome Online 新聞 - PChome Online 新聞",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTGJqSm5Pa3dMZ0tuOEE0eEQ0cVVaYldxYjh2aFFjV0R5UTdxVk5KS0pveURuV0JKOEs0cC1JdEdmNnVpQzhsaUJIaTJzZWFTbFFRZ3hqeGRzVDRGT3hKWHI3THowOEQ0RmNJMW9jYmd6M3k1aW9aRFhGQzJBXzFfNGFOLU1OSllOQ2oyZQ?oc=5",
+          "source": "Google News",
+          "date": "2026-05-20T10:47:42Z"
+        },
+        {
+          "title": "〈貴金屬盤後〉高油價刺激升息押注 金價周線連二黑 - news.cnyes.com",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MVW9nX1BmbnhSSTBDOHBRbmNZdFhhM0RuQTM1QzZoeVRSYzItN2JWeTZnWlZ2bGVJbzNxYVdVcXZrWjB0VnBoYnA3V2VXZHc?oc=5",
+          "source": "Google News",
+          "date": "2026-05-22T23:00:48Z"
+        },
+        {
+          "title": "美股收黑！通膨疑慮推升美債殖利率 科技股領跌那指挫逾0.8% - 四季線上4gTV",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RXZBOW9rVHFNNzU5UjhROHpmd1YyMlVjMVhFTy1UcW5rOWZ2bkFhMEplZElQUGQySnNPSmZpbHBMbWVZRThZUl9YTXMxZUcyVFhfU2NNTUFFdWlYeUtuOGphQTkzWl9jMDBTOHBn?oc=5",
+          "source": "Google News",
+          "date": "2026-05-20T06:27:12Z"
+        }
+      ]
+    }
   ]
 }
