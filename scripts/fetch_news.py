@@ -9,26 +9,44 @@ FEEDS = [
         "category": "AI 科技",
         "sources": [
             {"name": "Google News", "url": "https://news.google.com/rss/search?q=AI+人工智慧+Nvidia+OpenAI&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=ChatGPT+Claude+Gemini+大語言模型&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=AI+晶片+算力+資料中心&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
             {"name": "Reuters Tech", "url": "https://feeds.reuters.com/reuters/technologyNews"},
+            {"name": "BBC 科技", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"},
+            {"name": "Google News EN", "url": "https://news.google.com/rss/search?q=artificial+intelligence+OpenAI+Nvidia&hl=en-US&gl=US&ceid=US:en"},
         ]
     },
     {
         "category": "台海 & 中美",
         "sources": [
             {"name": "Google News", "url": "https://news.google.com/rss/search?q=台灣+中美關係+台海&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=兩岸關係+解放軍+美台&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=中美貿易戰+關稅+制裁&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
             {"name": "BBC 中文", "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml"},
+            {"name": "Reuters 地緣", "url": "https://feeds.reuters.com/reuters/worldNews"},
+            {"name": "Google News EN", "url": "https://news.google.com/rss/search?q=Taiwan+China+US+relations&hl=en-US&gl=US&ceid=US:en"},
         ]
     },
     {
         "category": "科技公司",
         "sources": [
-            {"name": "Google News", "url": "https://news.google.com/rss/search?q=Apple+Tesla+Google+Meta+科技&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=Apple+蘋果+新品&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=Tesla+特斯拉+電動車&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=Google+Meta+Microsoft+科技巨頭&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=台積電+TSMC+半導體&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Reuters Tech", "url": "https://feeds.reuters.com/reuters/technologyNews"},
+            {"name": "Google News EN", "url": "https://news.google.com/rss/search?q=Apple+Tesla+Google+Meta+earnings&hl=en-US&gl=US&ceid=US:en"},
         ]
     },
     {
         "category": "總體經濟",
         "sources": [
-            {"name": "Google News", "url": "https://news.google.com/rss/search?q=Fed+利率+通膨+油價+美債&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=Fed+聯準會+利率+降息&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=通膨+油價+黃金+美元&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=美股+台股+股市+經濟&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Google News", "url": "https://news.google.com/rss/search?q=比特幣+加密貨幣+BTC&hl=zh-TW&gl=TW&ceid=TW:zh-Hant"},
+            {"name": "Reuters 經濟", "url": "https://feeds.reuters.com/reuters/businessNews"},
+            {"name": "Google News EN", "url": "https://news.google.com/rss/search?q=Federal+Reserve+inflation+economy&hl=en-US&gl=US&ceid=US:en"},
         ]
     },
 ]
@@ -42,7 +60,7 @@ def parse_date(entry):
         pass
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-def fetch_category(category_name, sources, max_per_source=5):
+def fetch_category(category_name, sources, max_per_source=8):
     items = []
     seen_titles = set()
     for src in sources:
@@ -53,9 +71,11 @@ def fetch_category(category_name, sources, max_per_source=5):
                 if count >= max_per_source:
                     break
                 title = entry.get("title", "").strip()
-                if not title or title in seen_titles:
+                # 去掉重複（標題前 15 字相同就算重複）
+                key = title[:15]
+                if not title or key in seen_titles:
                     continue
-                seen_titles.add(title)
+                seen_titles.add(key)
                 items.append({
                     "title": title,
                     "link": entry.get("link", ""),
