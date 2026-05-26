@@ -2,7 +2,7 @@ name: Daily News Update
 
 on:
   schedule:
-    - cron: "0 1 * * *"   # UTC 01:00 = 台灣時間 09:00
+    - cron: "0 1,4,7,10,13,16,19,22 * * *"   # 每3小時，台灣時間 09:00 12:00 15:00 18:00 21:00 00:00 03:00 06:00
   workflow_dispatch:       # 允許手動觸發
 
 permissions:
