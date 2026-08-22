@@ -1,9 +1,15 @@
 {
-  "updated": "2026-08-22T10:19:07Z",
+  "updated": "2026-08-22T13:28:24Z",
   "categories": [
     {
       "name": "AI 科技",
       "items": [
+        {
+          "title": "Robot horse and rider steal the spotlight at Chinese conference",
+          "link": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 科技",
+          "date": "2026-08-22T12:47:28Z"
+        },
         {
           "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
           "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
@@ -45,12 +51,6 @@
           "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
           "source": "BBC 科技",
           "date": "2026-08-19T11:19:12Z"
-        },
-        {
-          "title": "The critical tech staying safe by going underground",
-          "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC 科技",
-          "date": "2026-08-18T23:25:21Z"
         }
       ]
     },
