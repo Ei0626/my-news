@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T07:37:15Z",
+  "updated": "2026-11-16T19:58:51Z",
   "categories": [
     {
       "name": "AI 科技",
@@ -17,18 +17,6 @@
           "date": "2026-09-07T07:00:00Z"
         },
         {
-          "title": "Nvidia 投資15億美元打造AI基礎設施，OpenAI成為首位客戶！ - CMoney投資網誌",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHZtdW1DSnRPMFBaU2pKRjBOSVM1WGRGX1VROVJ6T2g3Yk5aYm80NW44UV85N3Jsa2lfeDliNTlsZDhqNWpRNFNDRExjOVVndkhkQXVQNUdCdFRRcXVfX1RFeDF1X2RqTlRmMll3WGJWaFZ2dFMyQm1GN19JZjc3UVU0SVEyM3lseDBkWTN3?oc=5",
-          "source": "Google News",
-          "date": "2026-08-18T07:00:00Z"
-        },
-        {
-          "title": "AI需求是「自己養出來」？輝達7500億美元交易再掀循環融資疑慮 - 鉅亨網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xTXBiU0ZqekdINVB1ZFlGekJjR2NTMkgxdFQ0b1QzYjNaNF8wVTlpbnlNS09lT05hR2hGRmprdEU0UElIOURONXViX1cyQUk?oc=5",
-          "source": "Google News",
-          "date": "2026-07-27T07:00:00Z"
-        },
-        {
           "title": "黃仁勳喊「AGI已到來」！大讚OpenAI Astra 曝40萬顆GPU蓄勢上線 - 民報",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10VUJqWW1JMkZrdF9mZG03SUZRUWx2ZXlTNGZtQTdNRDZuS1lhY2xsT2g4cnpKN3pmZ0FzRDRUckstTXN4dXdHdmVKMGI3N3lrdnVzVkJzcWs0ZHYzNGtXcmZNUm4?oc=5",
           "source": "Google News",
@@ -41,10 +29,22 @@
           "date": "2026-09-07T07:00:00Z"
         },
         {
-          "title": "砸 5000 億鎂！NVIDIA 攜手 OpenAI 擬建「全球最大」AI 資料中心，日本砸重金入局 - 動區動趨",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfSEJ0Sm1XbnRBNXJpUjlhbmFycmRlZkw3VEIxMkN6X2RVMmNHX2tRVlJXZ2hkWkNlZk40azg3N0pPM1A1NFFOSmp6Z2VzNkNYem8tRTJ3RkkxbnVNRXAxSmtkclp2b3hPR2V3eWdoNEUzcUVwbkJr?oc=5",
+          "title": "Nvidia 投資15億美元打造AI基礎設施，OpenAI成為首位客戶！ - CMoney投資網誌",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHZtdW1DSnRPMFBaU2pKRjBOSVM1WGRGX1VROVJ6T2g3Yk5aYm80NW44UV85N3Jsa2lfeDliNTlsZDhqNWpRNFNDRExjOVVndkhkQXVQNUdCdFRRcXVfX1RFeDF1X2RqTlRmMll3WGJWaFZ2dFMyQm1GN19JZjc3UVU0SVEyM3lseDBkWTN3?oc=5",
           "source": "Google News",
-          "date": "2026-07-28T07:00:00Z"
+          "date": "2026-08-18T07:00:00Z"
+        },
+        {
+          "title": "OpenAI自研晶片超車輝達？Jalapeno兩項測試擊敗GB300 - 鉅亨網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGVVpJOXhMeXNnWkFPc29xblJWYi1oVmVWTURFYnBBV1d0M1R2ZUljYk9zXzFGSzBma3BlVmxWUlN0aExxS3IzMElReFkyZzA?oc=5",
+          "source": "Google News",
+          "date": "2026-08-25T07:00:00Z"
+        },
+        {
+          "title": "十萬顆GPU聯手訓練，通用人工智慧終於來了！？OpenAI發表最強模型GPT-6，首席科學家擔憂「無法控管」 - 風傳媒",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5LMG4xZmhSZW9GU1dxc2ZNSk83T2RvdnVON2g5b1c5WGFsRkIwRG5YNVRqREFNeHYyOXptVm9OTUs5Mml6Z1VHOENzVkNLdw?oc=5",
+          "source": "Google News",
+          "date": "2026-09-07T07:00:00Z"
         },
         {
           "title": "輝達攜手 OpenAI、SB Energy 蓋 4.25GW AI 工廠！黃仁勳：下一個瓶頸是土地、電力與機房 - 鏈新聞 ABMedia",
@@ -102,54 +102,66 @@
         },
         {
           "title": "想彎道超車恐沒戲？華為AI算力將增逾70％ 研調卻揭「殘酷真相」 - 自由財經",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91MEI0c1lJR2ZnZk1UY05HQmdnanhKTDB0czd0YlZka1Z2ZG8xdXQ0dHZEYU9UZjNVbnFuZEpkWDJsVllLcGcxbS1vQUlxUVZ4VUxNQ1NnS1dLZE1QaEY40gFkQVVfeXFMTmhpYjR3TDIzcDVGRnF6cEI2dk82bjNaallGT0w1cm91dXJfV2hNY1F0M0ludmxNZWtuOW92eDJYVi0zRlBOLWV5eHQyUUN4cFpTczlMN0lRUXpxczVwR2pUZVFWcw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oaWI0d0wyM3A1RkZxenBCNnZPNm4zWmpZRk9MNXJvdXVyX1doTWNRdDNJbnZsTWVrbjlvdngyWFYtM0ZQTi1leXh0MlFDeHBaU3M5TDdJUVF6cXM1cEdqVGVRVnPSAWRBVV95cUxOaGliNHdMMjNwNUZGcXpwQjZ2TzZuM1pqWUZPTDVyb3V1cl9XaE1jUXQzSW52bE1la245b3Z4MlhWLTNGUE4tZXl4dDJRQ3hwWlNzOUw3SVFRenFzNXBHalRlUVZz?oc=5",
           "source": "Google News",
           "date": "2026-11-16T04:43:53Z"
         },
         {
-          "title": "黃仁勳辭輝達執行長，專家：AI 發展趨健康、台灣產業鏈「非紅」優勢不受影響 - TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMUxESzZVMmVhSU02RFRnOGlXS1pDZ2owakZ2cDZaVFcxQmFCMkk1TnhUR3VCT1M1cWMzSUxjaXEzanhCRk5NazB4UkhlWmpwSWJQTGtIZ2d3NXJjZGYycFV0eHdKbXExTVB1dzZoMmlxb1czV2F6UUl4cDRrLVZXWTdvdkI5UWZoWTFwY3piRUo3a3dLWFdtQnhQN1BSbHQtZkNWTXpmMWQzOE9PSWh5ZmVtU2hZLTVUSlE?oc=5",
+          "title": "黃仁勳醜聞衝擊東南亞，中國取得美國 AI 算力的後門恐將關閉 - TechNews 科技新報",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2JIa0xPU3ZIY1RQY0tEZFo3ZDZoR1hTX3dMUjQ0enBHaHhyV3B0dmNYTjZqeHZ2VTU3Smg4UEk5MnN4XzI1YlFBUTRiaUl0cXZsaTVUYUdZbVozZ3JBRUN1M2gzY2ZRQ3diMFhRMTg4VnV1VFFLVEptcVN1WDBESWVwU19oTGtSZlNvVzRub1J3dU5BT040SjFUdVBaanJVblpQSnJZUTFfY2M?oc=5",
           "source": "Google News",
-          "date": "2026-11-16T01:12:30Z"
+          "date": "2026-11-16T09:02:36Z"
         },
         {
-          "title": "華府晶片管制風暴升級：Nvidia海外算力戰場暗藏政治與利益交織 - CMoney投資網誌",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFFTWmEzNktCTEV2TzJ5NTdnUy05Nm9sUHlMUlFBYm9uLUFvdW90eDRXdFhZYmVlb2U1ZXptcnNoVEdkT1ZlM0s2a2M3ZExkWmhMb0hwckVlOVljakEtbndNajdZUUdmYkVPeFBuVkNaYVJkM055SHh5MU1xSmxmRk5CZXRSYkFJTHBlT0J3?oc=5",
+          "title": "SemiAnalysis大幅下修AI算力與資本支出預測 輝達首當其衝 - 鉅亨網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9icXpEZjBzdzVOVjhNc29acHJLbUV1Wl9tdTJpY2RaMkE4RFFHTURnWl80c0k0Xy1OOHREVGVvMmtnbXJsaGphMUhaWTRfLWM?oc=5",
           "source": "Google News",
-          "date": "2026-11-15T15:00:18Z"
+          "date": "2026-11-16T12:50:06Z"
         },
         {
-          "title": "美對中晶片管制發酵 本土資料中心基礎設施擴張成焦點 - 商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPQW5kZVNqeXExQVVaY21RX2w5bEFTZEh6ek1GaFVFenF5NUwtZ0JhN0xuSUwzZG54OFBTaUhqc1VHanBZSmFLMlYwVHhvM1RDeUROejg2NlhIeVF3YWFTYjFlSEhnYmpYSW5XRVQ0cm5sVXhDX0VXaGJxcTN4ZEpjenV4S2o0ZmpnbG8tRGJjdmExS3Q5dUI4dGQtVkhqbDJ1T1ZXWVIzb0dTSFFXdXRJLTdMcWhHQ3hVSkljNGU1SktiU0N4N1VlTW85cmRIc3N2X0F0WVdZTTlWTmZVWEluRjQ2UHBrbFdBMEJtdklPNmxxVHpfek9yZWUtWDlTU2pKZzlJX0EtVWVWVFZJaGpHbWlFT3pyeUlIYVR1OTNxYjZ3RlVYZVp1NnVodUljaFJ5TFBXMzBoTFJTdThTUDBvLTE3TURuZmJqaC1rNlc4QlExU0hNV0ZiS2ItYnVHaXlTZkFhVGxKMV96UUxRT3hBMkswWVpLX1JsV18yNDVVWElzZTB0LWc0Z1l5OFRJTUN6cC1Ecw?oc=5",
+          "title": "美國公布晶片新規限制中國海外AI 算力！新加坡等5 國增晶片出口許可| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUHJpS0hEWHpRTjBPVlpHeWVkYS1NUzcyUTl5UmZsYk1UTUZ5TWtKajl2VzNyXzZKMUJUOHlzNmFyaWNvcDRScl9qR0NRWmRoSXVLNUxfMDlMekNtenFNYmxOVGpRaTdKc1dpN1Nyb2ZxNFk3cWZJQkNfNzl6R0V0VlJBcXA4YmlVS3FzQ2FiNW1UOEU?oc=5",
           "source": "Google News",
-          "date": "2026-11-15T23:13:51Z"
+          "date": "2026-11-16T14:29:41Z"
         },
         {
-          "title": "只買科技巨頭不夠 009827晶片電力太空一次打包 - 蕃新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LSVctaWFDajZ0UkM4N2pPekdpRHRpMjlZVEdiVlZyOEc4ZGlULWtERE12V2NFVkxKcExWQUpjWjN3M3lFbGpSWV8yRkE2YnM5X1E?oc=5",
+          "title": "【即時新聞】美祭新禁令防堵中企算力漏洞！輝達(NVDA)前CEO辭職風暴擴大，AI晶片股全面下挫 - CMoney投資網誌",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2l3MElQVjB4NEp6S3FDUFlmZXlyQ3pZUElsdUZKcjJqcVJSMGw4eGVNVkNvSFA4bTRsSWpwTzBIdHdPRFpzZElJdlRKZTVVSkNaa0VNVmNSUEhKSWpDTU1HZnZtWUFFS1pudjlRUGhXVl81aks3WUI1ekJpUGR1cG9HenFaWVh5RUF3aTh3X24?oc=5",
           "source": "Google News",
-          "date": "2026-11-16T01:53:31Z"
+          "date": "2026-11-16T18:56:13Z"
         },
         {
-          "title": "1--全球算力版圖重構：2026年世界AI需求層級分佈與GPU/伺服器架構深度分析報告 - Yahoo新聞",
-          "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQZklCZ1d0a1ltRkpPREpoaGMzSWN4b05QUUdTTWFIY3V2WHk2QjBiY2tnYUNUNVV1SzFwWFdPeTUyMnZmVXhVVlNTN1BkNXRuWHlSM1FVUFRjaG81dzQtZjZiN1kwelNSUU9Gb1JNUFlEa295a0dWWEdqVHQtalZiSEg4TXJaTThnbFhmNUdjSEExLVhzVDkxQU9jZXA4aWVmY2kxU2ZVN1pDNjdpbzF3TDdQblJFRG1IdzhtYjg4bzhvZ3hrckwyWmxrY3ZIeFB4bEZ1YzNOSVhfTDE2eGV2M2NwWFIyUzZtOFB5dlRhQWpIMEdROUJncFcyR3VITmZPcVZyVnRzRDh3bkhBM0lpeEU3N2FrdVNzY2wybDBxb1ZiODVhOWMxOEV3UTZveUVaTU9Ock54NDN1Q3gyOThjdzdSU1BiUjBOWnljZHdrUzdiY25Zb1lnUTB3Zjh2R0N5clloNlZQU2x1OEVLYkYyWEZEM2RyVGJLZnc2WWhGSjFIYlFCZ2IxMlUtdTFfRWgzVm91ZEQydUJxNjlYOHpGQktxWnNONjI5aHU3eXdIMDVYWVlpUkE1cGE5VUN2UQ?oc=5",
+          "title": "美國商務部收緊AI晶片海外存取限制，AMD續跌4%，市憂半導體股海外訂單交付能見度下滑 - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN082WkJYNExGWkRQUFViTlpiYnRNRjU4NC1OZDJhOU9UVm1qUDdNaTFsQy1rc3ZZSnNfRzhKSXNMMV9hWHF4UmF5dWI1QVJYT2xSU3ZLdWFqZlNON1JpZ3E0VWdPZVdtR094d3BRN21FSGU3cjRydlZYc1I0bExHQXRGVW5NbEJPS1RtcEstbmFybmtRd09kYnVJY2JqelZmaXprT3FvSlo2TmYxWkJlWjZzUkdIWktpZUxyb0RPdjFVWnU4cldtT25lMk01dTR0VDVoaXdMbjM3aGFvbENoajBaR0hwV2s?oc=5",
           "source": "Google News",
-          "date": "2026-11-15T01:30:03Z"
+          "date": "2026-11-16T15:29:41Z"
         },
         {
-          "title": "黃仁勳一走，中國AI算力恐斷糧？路透查150份文件揭「中國32億美元AI項目綁輝達晶片」 | 蕭宥宸 | 新聞 - 風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WcGFfYUM3YmJHRGt0MFdBWEhaQmxTakpuRjhid2FmVXpQRXRtdUppZ3hyQm9ySE5FTXZxS0ZETnV3TEdlVzNzWWdZc3I1Zw?oc=5",
+          "title": "美祭新規 限制遠端存取算力 - UDN",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rSXJIZ2VWSGdUNlp1QTNLVjU4M012WWg1eWJyZXRTVF90ckdHS1FuLXE0RzFFRWZDWERTelgzcUY3bzRHNEJIaXBmV042YWJvMGxOYkczSETSAVhBVV95cUxNdmZxN2Fjcll2bHRjcGZCbnFIOEpMRFBlQ2pmdTM3SE5PN3R6SmF5aklxand6RFU5TkdoXzIxVVdnZWJXWkRZc2lwemNxNUVNOU5tV2FNdjct?oc=5",
           "source": "Google News",
-          "date": "2026-11-13T15:19:00Z"
+          "date": "2026-11-16T16:19:35Z"
         },
         {
-          "title": "COP31直擊》AI算力競賽從拚成本變搶速度！台達電揭資料中心節能關鍵 - ESG遠見",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5xdmVldnNKYVZXVkZWeGlkWjF4N2QycHVLcVZMZGEyTkxDTFVDOVRKRThvUXNBZHliT1VsdHJlZ1JleWJIY0pGR2MzTXJKdw?oc=5",
+          "title": "SemiAnalysis 大幅下修 AI 算力需求預期：2030 年資本支出砍四成，輝達出貨預期下調 66% - 桑幣區識 Zombit",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3Rnel8zeHFDWEhTS2RvSFllYkJ4T1Z6ck83ODVSN3JTQ1lzbHc4OHV2bUtBNFBkcHFQd3pDc2RTRVp0dEs2WFdHdjNTTHBkNjA4cnpTLWpjVjZYVXdHN1l1WmdTcHZZVG02ck12NmRLckxXZWxKdlY3R0tnalI2VlJWNTFoNkZqNzZOZnVueEpvUnBIY2c?oc=5",
           "source": "Google News",
-          "date": "2026-11-13T09:42:38Z"
+          "date": "2026-11-16T15:04:04Z"
         },
         {
-          "title": "Investors sue chip giant Intel after 29% stock plunge",
+          "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 科技",
+          "date": "2026-11-16T19:16:52Z"
+        },
+        {
+          "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+          "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 科技",
+          "date": "2026-11-16T13:34:22Z"
+        },
+        {
+          "title": "Intel sued by investors after PC sales slump hits share price",
           "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
           "source": "BBC 科技",
           "date": "2026-11-16T03:04:01Z"
@@ -185,22 +197,16 @@
           "date": "2026-11-14T00:37:01Z"
         },
         {
-          "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-          "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC 科技",
-          "date": "2026-11-13T23:00:31Z"
-        },
-        {
-          "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-          "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC 科技",
-          "date": "2026-11-13T21:15:41Z"
-        },
-        {
           "title": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’ - WSJ",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVZuRkZvWWp2cTVZRkh3Tm96YThHTGFtSmk4TjhOMWZqT0xsSXZkbEFQRzRZcWFaMHlzNGYxZHBzTF9YYUZJa0ktNFNua1ZiLTVvNDRNZGViZlFxMVVsQlZXM09faWZOSDZkNDRiaTJjYXFfMUgxN3p1UWZkZXVuOEQxUFJRSHI4TG9yRU1kT0Rlb2ZoUGQtQUNndkdnajdTZmc?oc=5",
           "source": "Google News EN",
           "date": "2026-11-16T03:59:00Z"
+        },
+        {
+          "title": "Nvidia, OpenAI, Amazon among 25+ AI firms Trump may name ‘national champions’ - The American Bazaar",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT0pHd0xNNnBzX1BVamRqYWZ0WE1IZ0h2RnRSbGpmT1BVOG9ybU82TEtLOXFBTEkwWWNTcThpMGpPRFoyejhHUFQ4Si1xVk9VX1k2S1FET3BIa0tJcjMwYjdYZUpjSXFqVEtidWxlWE5EdVR2T2hHRDZyd2FjUFNqb0hWNEUyeGpnWW94NUtDT0NvNHdCRjd6SjFJOTVNbEVyelFuVnd3ZlpSRU1wUFpPZXRpQWtVcW1QdU1pYTlNWnVIZw?oc=5",
+          "source": "Google News EN",
+          "date": "2026-11-16T19:26:53Z"
         },
         {
           "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions - CoinDesk",
@@ -209,40 +215,34 @@
           "date": "2026-11-16T06:01:41Z"
         },
         {
-          "title": "Why Silicon Valley’s Knives Came Out for Anthropic - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
+          "title": "Generative AI Market Companies 2027: OpenAI, Anthropic, Microsoft, Google and NVIDIA Scale Revenue and Raise Record Capital in a Market Headed for USD 1,206.24 Billion by 2035 - Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVlWMUJXcE9taW5hQlQ0VXF2dWxDTEhuak1LNUdSemhNWDNEZ2lQZFZtVEN6WE9PQTUxOWdHaDNsTU1RNVRCaDBIOWd2SlYzYkZPd2lYNmxVOGkxb28yQnd4b2doWERPZUJkUTVqQjRhM0prZFBrai1MR0MtRWpLb0VOUjBZcWgzcEF4QVNMWTFKcEpvSllURWtGZHhvdVpi?oc=5",
           "source": "Google News EN",
-          "date": "2026-11-13T15:09:04Z"
+          "date": "2026-11-16T15:30:00Z"
         },
         {
-          "title": "Trump picks Nvidia, OpenAI, Microsoft among AI 'national champions' to take on China: Report - Moneycontrol.com",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjc3bTVnUFpsdl9BdzI5RGZPYmszQVNsZmJEZzNhQlNndnZOQzFBYmtQbGw1djFpVGszc3dPSDJJYjgwSUhobWo1VjBIbmlNWlFyVkMtSl9vQnI0UDQ4Q1IzMm5ENnA5dlMzT3hPTzg2V3BQTE5QSXF4QlVadUQtcjhUSXh0YXFYcFJ1ZFJqOFVFRmp0T2ZoNGpIcmkybnR6b3NEdmJRQzZCa2lIa1M2X1V0THA0OFFWcVBKamVmYjVpVUcyVzhsTEREUXUtcjRrbUZmdUpoR1piY29R0gHiAUFVX3lxTFBtQzlzemtEVFVQeWNFd2FLZ3BMckRoc1hzblZBdHo4aEVKSVlqLWFNM1poZ3dTOVAwVXdtN1Q5Wndfb1M1XzRheHoycm94Z0hsVWxVNEVXdnB3ZWlWRkptbUNOb3k2bzlsa0ttYUhzbmdlS2RNRk9GbjRtUGJUVXRnRnB3ay1ST2xsUlAwNjFSQTBGTlpsYTlHUjR4dEtZSXNvbUJ1ZWVreDhNeGJyUml6bGZvNmhGbEt2d3BqX0ZzdGpCWTcyUVZDRE5nMFktMm5uRklNMGJGeTRTWVh0d28xVHc?oc=5",
+          "title": "OpenAI will embed safety researchers to investigate AI subversion - TechCrunch",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGwxMmpFWW1rLXdmMmZSeG9faHNxQjQzNmVZN1k0ZXVMY0wxQXhtRWNrNjFhOW9kRlp4M0RvVy0tczdJQ0k1TFZXa2xRTTNfSlJVMlViRXVQajZTRDhyMldKQ3hTVmIwT0FuVlBMcnJBeDlVNGxla2Z5TWR3MlBNTVh3N201c3N1bnQ4a3l6NV82cTg3ZzNYTjlVMmVHcVl4TUE?oc=5",
           "source": "Google News EN",
-          "date": "2026-11-16T05:01:59Z"
+          "date": "2026-11-16T17:02:43Z"
         },
         {
-          "title": "America’s AI secrets are leaking — and not just because of the Nvidia spy scandal - Vox",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcnF3WmhYX29rcl9xVEtiOW1ya1hZS0ljNm1vM25aRC1NWjZjUlFUbTl1ZXZ2N1FLOV9wVm96MnBvbDJIby1EWFZadDQ2bzRxek5USWNOTWRON2gzM255VUx6eVRaRldIX0RDOS1uckJMSklIMmhOVmNvZGVmbjJqSk5GanhGYnliRk96cEt1VUJ0RUloMV9QaUlB?oc=5",
+          "title": "Nvidia scandal, AI anger, Beijing’s mockery: 7 US-China relations reads - South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGZPaU9YY2haYUo0MDVrWXd0NnNaRjJVa2xISVdsTXFIQUdHUzMzSlpXNzVBUFlWMzdJSWlBaGR1ajZoSUE0bTNzSDdJcmxJM25lbUN4TlNOaDA2TUhzS2dmZF9JY0ZwbGhoaDR1dnNmZ1JOYXFtZ25aeVoxS1VPN1g0cUtGVWZBM19HblpuQ29xcmdSd08xekZ0ZWNyTUxzZVlGVjhRRDIzNm00RU1peU1TQVJ1eDF2R2dILTNYTHBUbGvSAcMBQVVfeXFMUE85RGJ4QnVtM0lka2V1VF9LeXZaS05SYUdFLUt1RURfZU9xRExsWmZ1Sm44YlFsLUkyZGJSSlpmaTlGbjFMWVlEOE9Da1IyNjZKU3dvRWIzT2txTTVreEQ1TU40amF0Q0N4Q00yMG5hd2NCOEY5SHhRamVFSF81djNtT0MwaF9ma1czSnJnWTdURVd1ZjEtV24zRnlFQnMtMWczTktoRndwYUE0Y3VGS0k4ZzBRTTBqazZNU1VfcGJfR2o0?oc=5",
           "source": "Google News EN",
-          "date": "2026-11-14T11:00:00Z"
+          "date": "2026-11-16T17:47:31Z"
         },
         {
-          "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report - CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5",
+          "title": "Trump to name Nvidia, Amazon, Microsoft, OpenAI, Anthropic and other AI firms as US national champions - Beinsure",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRTM2MTJ2bXNNVjgxREVGTk1xYVFDQ2lGUFR0Sjc0OHh5cHl2clRmMWV0TDlOb1FzTzJQeXNObmJUSkg4QURCZFNHakVVTjdEcEhhVG95a0tBNTFJeUE3a20wQ2lFLUpYXy0tOGZfNFBxMkJtMlNVUkF0eVpPX1FDdnloSlMxUlhBcElLSTQ3MHZRZ00ySUE?oc=5",
           "source": "Google News EN",
-          "date": "2026-10-08T07:00:00Z"
+          "date": "2026-11-16T11:39:43Z"
         },
         {
-          "title": "OpenAI, NVIDIA, and KPMG among major firms that have set up AI centres, labs in Singapore - Singapore Economic Development Board (EDB)",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd0I0U3U5ajJUZXYzcm9rVUl4bi1UMm1FYzBtdmxXdTNDZ1hUMW5uVFZFdG5VNXZGZFFlWkN5RlVBNUxaZ1QxNEVDVzMwTlB5cTFrZjFwZEZOTUx4enFQcGpiYmRrVDJGbE1NaGtybFNySkViWXBSNzZFdUtfU3pONVZWWUVYelBTSHVTeEN1TWR6ZTczVkNMazVib2VwQnEydUVfSVNVTFF0UzlVTUhsNlJPWDhUVkpsYmtzMDhoWW01eWlyV0E?oc=5",
+          "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports - The Next Web",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObi1HdnFEMF9rcnBaS3paU1BPZHVCRURVaGEtT3ZCNWxUYm5sZmt4bTI3YTVOWmtrS0hVVWlfYmlBd3c5MzR1cUEwRjRDWGdHQUxVOUlwemZFR0VwNDdNNUNEcG9lWXVFTFoxOVhpUzdONjJqTllBOWwyVGhIZjR6U2tLQXpxUQ?oc=5",
           "source": "Google News EN",
-          "date": "2026-11-11T08:00:00Z"
-        },
-        {
-          "title": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUZMYTliejlKS1dfSmZCRmZZUko2WjJHa2RvSW03UVh6V0wwY3VJUnJrSXBDaGczVEJnWTkxR204QzEzUE0tRk15TGlIbm9sQkNGNkVTQ3VUWlVLV1AyRkU5ZVVlaGctSGloX0dRWGdQYUppZEVFNnpnbWE3Y3ZVZ2c2ZXc3SUtLRWZtVlRJUlNyNXFhSy1GTA?oc=5",
-          "source": "Google News EN",
-          "date": "2026-09-06T07:00:00Z"
+          "date": "2026-11-16T09:44:10Z"
         }
       ]
     },
@@ -260,6 +260,12 @@
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCY19GdkVIdF9sV09oZFhaSWxEUlhlZ0hkYUpiYk80R0F0clR2Q2pUQW1HZ1RWbG5qU29ZVXBJUi00eDVBenlTMDNHbnhSZw?oc=5",
           "source": "Google News",
           "date": "2026-09-29T07:00:00Z"
+        },
+        {
+          "title": "川習會四大重點：中美有何盤算？台灣是否會成籌碼？ - DW.com",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNNEdXV1hqMWs0Z0tCaUFGRUtsTW5FU0swQW0wR2xPUnFOSEh6N2x5dGRmM0h0LVpJVnlZSUlwZmszVEVWcnk2RS1VZUpIRXExWDBKTjZrNDlsQjRtZnJKMDV4Rksxem5yMUI3YlN4UkdoeHkyVzA0RGUyQ1ZQUVpxeGFQUXdFY0U4VUpzSzFseWwxdVlYOUlKSC1VekF2MXBETWQ1bTJnc2JNVmxMM2tlMW5JV1NERDRJcm95dDQ0b09vRHJtX01kYVdIOFJsVVcyTk5JSkwxS3dnS051UXNkZUQ4ZEhxT01Qd2dvQk9VRjlIQVB0LUluak5ZVHU3UHF0SEhLU01HcldLR3VUYzZfV2JtUzJCdko0UzlhWlFDUTV2aUJmTWotaVB1YVJucFZad2ZrbFlyRGdVaFpOT1NKcWhJVkZQOFNPc05N0gHLAkFVX3lxTE9vclVEa096aEl1TEN1OUtoWG5welR3SVhra1NOYXhKUGJ1RGhZZTVLQ3JER2RGcTVZMi1scElxV3RlMFJfTXlsX1pzbllyWlFVYno2R194enQ3eHFwTXZPeHd6NkxBcTVzS3NmRV9mVmx0MDJORmxVMTR2N25nTENNVzktQlJ6dGZLSlFYV2RHeFdBdjJPdTlXeTA3RUlqNXBVcnlucklnOXJ3U1NHN0RkcXZBWEoyYS13aHViWnQ3XzZRQmYxRXlZN1RyY3pGUWg5V2xaZjE3ZkdVdXpMaDFfVW5EYUYxX29aODItdC1zVmdUZE1WaEpFQTA3V3JwTl9ROTFHUDlTUDhpaDV4c1JfQ2hNUldWUHoyM0U4Rm9KZ2Q1R3ZRUVFlakd5QnVsYlo2ZDcxUnlHZ21NX0VSX2VWODE1T0ozajFEblU?oc=5",
+          "source": "Google News",
+          "date": "2026-09-21T07:00:00Z"
         },
         {
           "title": "川習會在即！陸國防部點名台灣問題「最重要」 喊話美國：慎重處理 - TVBS新聞網",
@@ -286,16 +292,10 @@
           "date": "2026-05-14T07:00:00Z"
         },
         {
-          "title": "習近平稱「台灣是中美關係重要問題」 政院：中國是台海不穩定唯一因素| 政治焦點 - 太報 TaiSounds",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41bVJOdFl5N0pOMzg2NFJsMlBVaXdaZlJObTRnLXV0QlNrc2pIUHJGdFVYeHlZMzlLZXR6ZUpheThQQ195WE5DcHBWeG45UHhtcks2by0ycFpWU3Jz?oc=5",
+          "title": "「川習會」後美中台海新默契？ 台灣如何在現實主義浪潮中自救 - 報新聞 Mega News",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBENEtCaFN0SFFRYTUxQ2pHQlJ0blVhYTBUekFpREg3VzZaaDVnakY2ZDd2T3BaX1pxQjFmUThuNDJQZHBQY1RBVEhDdWE2RXQ1WGlrV0paX2xiRnlrNzFIWFhra0dMS0lK?oc=5",
           "source": "Google News",
-          "date": "2026-05-14T07:00:00Z"
-        },
-        {
-          "title": "習近平稱台灣是中美關係重要問題 外交部：中國是台海不穩定唯一因素 - Facebook",
-          "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxQMldhTC1qekdRY0hpbjhTRTBIOTc3SHNKVHZLSjlMUzE0M2J5WlF4R1VVUGFsTkFoa0x0WjE3SGlsOTEzNzM0N2M0cW9FQU1jVFo1VXo5R2ZiVWZ6TVFZNHp0SVNtVnY0R3FzVFVsaElFNWRTTXc2c1BpUVdHUGVhVkl4MVBVQ19zMk5vQmh1UHpVN1ZzQ1VhbHY1SlBrdUVaZlVjQUJQNjd2c3hqNkpJNHdtV0xyVG5ZYkZRUUFHTjJnb2dlRmFuMGE2OS1tVWc3ZXlGLVk2eUdUdU5obWhvV0VMaXBZSXp1ZW1DWWVKaURCZVA2aElWdG94YnhWTVh1MzFMa0tVYVNkZzJpbjdtTjQxSGtlNEdGRDE0SVFqdVVtOXhjWC1TcV9XTXB4RXBzZk5DaEhVQXlfOGYwMFZFS2t2WTMtcXV6YkZ1WFJfdjBkNjhZcldaY1M2YU8zLThGcW1vVm1ON19MRUhxNVIxVWxyVlZmNjRrVjdUd3E1elF0UkVaRFUtY1EzWVgwcW9oeEJuRHhZRUtwOG1UMVNFazRkNWMwSjVVVDFxakhzTkQ2SmluOUVhbV95VXpKcEk0a1E1bWQxZ0p6N0JvWWsyMWd3?oc=5",
-          "source": "Google News",
-          "date": "2026-05-13T07:00:00Z"
+          "date": "2026-05-19T07:00:00Z"
         },
         {
           "title": "「雙城論壇」遭遇解放軍「圍台軍演」：北京軟硬兼施嚇阻台灣 - BBC",
@@ -310,10 +310,22 @@
           "date": "2025-12-24T08:00:00Z"
         },
         {
+          "title": "談中共對台3大軍事行動 國防大學教授：解放軍已做好武統準備 - 自由時報",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VU2hBZlRMWWFqSGl4YVB0QkhXSE96QWtOY3JBTFVYVlZsZC1DeGpFUkE0dWh3XzZwUmJpek00Uk9maUlKSmh1SDRoa1pWQkdWT1VoYm9GdC1nWklPUFBkSEZqanRRcDJPY1HSAW9BVV95cUxOTWxOZzQ0ZWRxWFV1M05QYnY3TkZRU1B5Slk4Rksxdy1sdUVNbzlEVy1EV3RfckZfcnFTLThMZUtKdnFISEh2Y2p4TUxoWWtpc1dkeGpMLVFxU2xpNC1xbWU2LTJ3ZXhfOFdxRDhJMkU?oc=5",
+          "source": "Google News",
+          "date": "2025-10-21T07:00:00Z"
+        },
+        {
           "title": "中國解放軍「無預警」圍台軍演 東北亞局勢緊張全球緊繃 - 余紀忠文教基金會",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9iRnplZEcybXpjb0pPT2xobGQ4TVMxdGZVU2RBYVlfRk1LbGhheGdRMENabXptS3M0LUNlTmNkNmRCRFJSWDlDMg?oc=5",
           "source": "Google News",
           "date": "2025-12-30T08:00:00Z"
+        },
+        {
+          "title": "「美國對中國的威懾力已進入危險時期」USCC最新解放軍攻台評估，指出了哪些共軍優勢與國軍缺失？ - 新新聞",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RTFBkWGFZQ0t3b1NWaG1SM2FmQlVjZFc3ekdBa01ndGthLS1raXNpamFJc2QybHg4ckQyYlhfdjhqY21HRWhiS0o3RmI2QQ?oc=5",
+          "source": "Google News",
+          "date": "2021-11-27T08:00:00Z"
         },
         {
           "title": "【動態圖解】解放軍如何進逼第一島鏈：台海衝突下牽動的美日軍事布局 - 報導者The Reporter",
@@ -322,28 +334,16 @@
           "date": "2023-10-16T07:00:00Z"
         },
         {
-          "title": "談中共對台3大軍事行動 國防大學教授：解放軍已做好武統準備 - 自由時報",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VU2hBZlRMWWFqSGl4YVB0QkhXSE96QWtOY3JBTFVYVlZsZC1DeGpFUkE0dWh3XzZwUmJpek00Uk9maUlKSmh1SDRoa1pWQkdWT1VoYm9GdC1nWklPUFBkSEZqanRRcDJPY1HSAW9BVV95cUxOTWxOZzQ0ZWRxWFV1M05QYnY3TkZRU1B5Slk4Rksxdy1sdUVNbzlEVy1EV3RfckZfcnFTLThMZUtKdnFISEh2Y2p4TUxoWWtpc1dkeGpMLVFxU2xpNC1xbWU2LTJ3ZXhfOFdxRDhJMkU?oc=5",
+          "title": "兩岸關係：解放軍戰機「越過海峽中線」背後的中美台局勢 - BBC",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SbGNZYnluMkNMMDhHSkxwbXZDZWxhUC1kNDFLbUxucE9KZ1M5V213cmxMdW5CS0c5amZXd1BkZm5NWHM1bGJXQWJxOEpva0pzdWRyUk1LOGhaNkgtWEdfb0RPd2d6Z9IBa0FVX3lxTE45ZWV5YmRDcnQ5ZEdKNUdZRXZTSXllSWJVbEt4Y3ZLcm1lSU8xUHBkVEJZb0ZjZllaLXNfcWZPNUFmbzBrMkg0V0VzczMySVJQNWN6eDRUc1VnTGVFLWhVVmR6SHpjaHppZW1B?oc=5",
           "source": "Google News",
-          "date": "2025-10-21T07:00:00Z"
-        },
-        {
-          "title": "台灣能獨自承受解放軍攻擊2個月？蘇起：化解美中競爭流血危機，唯有「這個解方」 | 兩岸中心 | 新聞 - 風傳媒",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xNUJ2NUxmOVVMdmdUY2c1QjZGRnNkeTdzTEV6SmxQUXc3X3BGS3lld0dlMEpSOHFyUFptM3hCbEl2NUhodzNUckNyZlk?oc=5",
-          "source": "Google News",
-          "date": "2025-03-20T07:00:00Z"
+          "date": "2020-09-21T07:00:00Z"
         },
         {
           "title": "中國若攻台代價高！美智庫：10萬解放軍傷亡、國際承認台灣獨立 - 三立新聞網SETN.com",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OQnQ2eGNLalZ3UjVycFl1VjktX3N5bGJSV1dIN3pKeW52X2FWdmswZ01wclRQd1JWOVRaOU1uMGFKdXBvNzVjbtIBTEFVX3lxTE83REYxSXh6S1NadURfcDZ0eFZTSGhaU25PazNTaVFnaWt6TXB1V2ZFR0xPbW5qWXJmMGVkRXd5Rk9JbFA4LTcybjUxeVc?oc=5",
           "source": "Google News",
           "date": "2026-01-06T08:00:00Z"
-        },
-        {
-          "title": "共軍環台軍演美日歐盟各國關切挺台| 政治 - 中央社 CNA",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UMXAxcC0yVmdQc054bW9oNjlRRXJVenF3STZsMHduRVMwQmJZY1ZvRWtvUkVJc0g2aks5eDFrc1czUUMxNU5WLVk4bWZBUzFTTEtKbm9hS0U3Nll0bjVR?oc=5",
-          "source": "Google News",
-          "date": "2025-12-31T08:00:00Z"
         },
         {
           "title": "「八年貿易戰」後特朗普再訪華：打破舊平衡，還是重構新底線？ - BBC",
@@ -370,6 +370,12 @@
           "date": "2023-07-26T07:00:00Z"
         },
         {
+          "title": "中美將全世界捲入貿易戰「交火」 - 纽约时报中文网",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTG5McFlmV043eGVzeFVhaVA5QUJkaTFxT3VkYTFMNndJa3Btazh6UVhQR2RqTE1vY2xJVWR1Q3dSMkNRZkhUNXZjZzd5TDRlUTR2RWphNll4M2VQVDZTRld1SEoteHM4SmFic1VrRVFPcEJXT2wwdElKYkJfZU9iVjViNjdQQU5ac2JsQzVHRk0?oc=5",
+          "source": "Google News",
+          "date": "2025-10-15T07:00:00Z"
+        },
+        {
           "title": "美中貿易戰最新進展 及對台商的可能影響 - 海基會兩岸經貿網",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82MzJIX3l2NkFFTm41clFsY0VtRWdmTVJmdFV4cDItbE1ONjdQQ3JyY0xLeTh0dFlhZmpIS0N5WnFqOVI3cnFGR2x5X2VzY212QUxVU1p3?oc=5",
           "source": "Google News",
@@ -388,13 +394,25 @@
           "date": "2024-04-29T07:00:00Z"
         },
         {
-          "title": "第4期 - 國防安全研究院",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5mRkN5X1JCdXU3N2NCOVJOTWpxNUNiRXpGaVhhTXlGRm01TzRjcG1mSHdQbVBxWmxTMEdQRHhHZXgzSlZOWk5KaUhYTW9mRE5saXpDTkNpQ0NvdXNRMmFnN3QwTGZoUnk0S2VwajVvX0JVYS13dWJWSlVnbF9lUQ?oc=5",
-          "source": "Google News",
-          "date": "2022-09-03T07:29:30Z"
+          "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
+          "link": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 中文",
+          "date": "2026-11-16T14:38:25Z"
         },
         {
-          "title": "APEC深圳峰會前瞻：中方確認美中俄會晤，日方盼習近平按慣例與高市握手",
+          "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
+          "link": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 中文",
+          "date": "2026-11-16T09:03:22Z"
+        },
+        {
+          "title": "里長赴中旅遊：台灣《反滲透法》為何「查辦多、定罪少」？",
+          "link": "https://www.bbc.com/zhongwen/articles/cr7428z1wx74o/trad?at_medium=RSS&at_campaign=rss",
+          "source": "BBC 中文",
+          "date": "2026-11-16T09:03:27Z"
+        },
+        {
+          "title": "APEC深圳峰會：中方確認美中俄會晤，日方盼習近平與高市握手",
           "link": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad?at_medium=RSS&at_campaign=rss",
           "source": "BBC 中文",
           "date": "2026-11-16T01:43:29Z"
@@ -404,24 +422,6 @@
           "link": "https://www.bbc.com/zhongwen/articles/cw8dvqp5z412o/trad?at_medium=RSS&at_campaign=rss",
           "source": "BBC 中文",
           "date": "2026-11-16T03:49:26Z"
-        },
-        {
-          "title": "習近平、特朗普與普京歷史性會晤，將對世界意味什麼？",
-          "link": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss",
-          "source": "BBC 中文",
-          "date": "2026-11-16T00:25:06Z"
-        },
-        {
-          "title": "法國總統大選：五屆奧運柔道冠軍意外參選，攪動選情",
-          "link": "https://www.bbc.com/zhongwen/articles/cwj3kmyk8ne1o/trad?at_medium=RSS&at_campaign=rss",
-          "source": "BBC 中文",
-          "date": "2026-11-16T00:26:12Z"
-        },
-        {
-          "title": "Nvidia黃仁勳醜聞如何令親商的新加坡大感頭疼",
-          "link": "https://www.bbc.com/zhongwen/articles/cq39gn7g7depo/trad?at_medium=RSS&at_campaign=rss",
-          "source": "BBC 中文",
-          "date": "2026-11-15T06:46:06Z"
         },
         {
           "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
@@ -440,24 +440,6 @@
           "link": "https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad?at_medium=RSS&at_campaign=rss",
           "source": "BBC 中文",
           "date": "2026-10-28T02:45:08Z"
-        },
-        {
-          "title": "The questions that hang over the next Trump-Xi summit - The Economist",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORGhiZUZsRlV3d0hHSExUbWpaWTNPajlOV2tsYlRlTmlXamg4enBaTnhoODgzS1k5ZGhncUo4T3d4eUttUl9FNnVnNVhIWk9TVDQxU1JZc3Jrck9abENLN1poRkZUb0Q2SzBsRlBKendsTXFKMEV6S3FvSDNqVm0tZFNKSkxmdGExc0NoY2drWno1Vko2M1BCOUF3amNiX0QwMk9Tcy1pYw?oc=5",
-          "source": "Google News EN",
-          "date": "2026-11-11T13:40:18Z"
-        },
-        {
-          "title": "When it comes to Japan, China finds it hard to think straight - Lowy Institute",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWIwcTZYU21EVHZxSnJSVS01S29rTE4wa3laSTVBVk5QUHF3dkxNRDl4eVlwUHZYaVhPelhRM241TEE2eFhLdm1DU01RRlVEaDlLTEZtbzU1VW1Md3RMOEVCR1VRV3VsbWdhbkdpMWN1TmNnakRvakpScC1HZTlxTFZZem9WNGRqNXF4OGZNdnFrYWRvX1FWX0piazZVeDFGQzdvcFh5VmxOUQ?oc=5",
-          "source": "Google News EN",
-          "date": "2026-11-11T23:00:00Z"
-        },
-        {
-          "title": "A Recipe for Disaster in Taiwan | Rebecca Lissner and Mira Rapp-Hooper - Foreign Affairs",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEpSVzVad0lhSGo3ZjdXbVZYX0VBa2dQN096dFU2X1ZEYjJTVURQR29HOUtHd1B4eXhFbThUMEpxcl9TSFo0V2hfVk1PaXpNUmFhTTJEVE8xcHFEbkVxblllc1FraHJ0TEp3QmVWaFo4V3RKbjZQUTF5cmVEbHV4N25INjZOQ2s?oc=5",
-          "source": "Google News EN",
-          "date": "2026-11-09T09:00:00Z"
         },
         {
           "title": "What is APEC and who will be there? - Reuters",
@@ -484,10 +466,28 @@
           "date": "2026-09-18T07:00:00Z"
         },
         {
+          "title": "One Issue That Could Upend Fragile U.S.-China Ties: Taiwan Arms - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaW9YV3VwTUNMd0d2ZUV6U2RYNVpNWjJKLXkyWEJmc3F1aHhUQjU3ejhlcmk1NE5KSWVZLXNxT2hoV3JLUkJEc1JNdFNVb3dTbDItTkdxRWJZeUgwY1ZKRXd1U3p4a1oxWDFGZzBXVmZ2MVBfdGtFRkpJcC13djVkOUQ5a1hheEE?oc=5",
+          "source": "Google News EN",
+          "date": "2026-09-21T07:00:00Z"
+        },
+        {
           "title": "The US-Taiwan relationship is stronger than the headlines suggest - Brookings",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2VFd1p6U3ZkZ0o4SW5HWXlEZzh6cmJYVlVSNmpxRFBSNkVkMUtjOWo4YUxhOU9DaXJyd0NJSlZnZ0hickpfNFZkd1dnR3NtODQ2UFUwdzlnMDM1MWxMM0FLMGZhXzh3cFI0dFU4REI0ekNiczZERWg5VFNsT0hpXzBRcDVhUVVKakF5Q2NRdVBjMmtGWXA4aDJNSGVweDZzNFNn?oc=5",
           "source": "Google News EN",
           "date": "2026-07-23T07:00:00Z"
+        },
+        {
+          "title": "The Beijing Summit and The Future of Taiwan-US Relations - Global Security Review",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGNweE5HOWQwTGVuTloxUmliaFgtcVMtdGxpYW55QThVc05hWS1VcmduOFlhVUppdU50MmlMWnNxaFBycjVpSTM0SUV0QUtxQ1FraVFzc2ZmMmVlSERKTGplUVhTZTB5Q1dZbVRxTkl6S3FRYjdBYzB5LVBLeFRyUkotNUdOTGRoMnVIN093RGdqa29E?oc=5",
+          "source": "Google News EN",
+          "date": "2026-07-13T07:00:00Z"
+        },
+        {
+          "title": "Potential Taiwan tension sparked ‘last minute’ change in Trump-Xi National Archives visit - NPR",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aNHl4V3dVdHNIQVEyTHpVQXFhUHNrMXB3dWtaQXRqSTN4RVlZeGVyRVpGVFhJTVNrZzBLN2J4QjBwaXBrdVBHNWVhSWdSckRuT0pkYWQtLXNYTkVPdzRTakxxOUVadzFNbVdUTDlrV1J3WGhQVmZOa2N3?oc=5",
+          "source": "Google News EN",
+          "date": "2026-09-29T07:00:00Z"
         }
       ]
     },
@@ -507,20 +507,26 @@
           "date": "2026-09-15T07:00:00Z"
         },
         {
-          "title": "蘋果新品藏不住！中國供應商爆雷 AI眼鏡、新款AirPods開發中 - udn科技玩家",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42MHJNcUxvdGJvb1ZIOUR0TzNXaC1jZ0xYVExqbWgzTkF0aFk1T3o1bjZ6UDBDQjdsNkZtMWNfM2M2bGdqNU9OMlZXU1BuR0M4V3NDaG91TDhIUdIBX0FVX3lxTFBxdm9mbmVvUzBDQkVyRjlpS211ZGttX1NSUTRQTnhJTHJMM0Z1d0lwWHUtM3FIeDU0d1M1emdGXzBhOW56TlZYa0g1YjdLaFlUZ2lCVjBfQWd1TVFBdHhj?oc=5",
-          "source": "Google News",
-          "date": "2026-11-12T04:32:16Z"
-        },
-        {
           "title": "Apple 2026秋季發表會重點總整：首款摺疊iPhone Duo正式亮相 - Vogue Taiwan",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2VnBJY0tRTzhRaWp4OTNTM29rUUhOUkJhOXp3NlVTSjh0cDlLN3RoaXBtb2RkcmJEMmpRX2o2QW5YUGhQNm4xbnJiZnJVbkFHYk1TNVdzbmRmWUhLUHRQeS12RFgwcnNUMXk3b2ZKSlpDOFRZN0I5VHJ4OHVZVFE?oc=5",
           "source": "Google News",
           "date": "2026-09-10T07:00:00Z"
         },
         {
+          "title": "蘋果新品藏不住！中國供應商爆雷 AI眼鏡、新款AirPods開發中 - udn科技玩家",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42MHJNcUxvdGJvb1ZIOUR0TzNXaC1jZ0xYVExqbWgzTkF0aFk1T3o1bjZ6UDBDQjdsNkZtMWNfM2M2bGdqNU9OMlZXU1BuR0M4V3NDaG91TDhIUdIBX0FVX3lxTFBxdm9mbmVvUzBDQkVyRjlpS211ZGttX1NSUTRQTnhJTHJMM0Z1d0lwWHUtM3FIeDU0d1M1emdGXzBhOW56TlZYa0g1YjdLaFlUZ2lCVjBfQWd1TVFBdHhj?oc=5",
+          "source": "Google News",
+          "date": "2026-11-12T04:32:16Z"
+        },
+        {
           "title": "2026 蘋果秋季發表會 6 大新品登場！懶人包帶你一次看透透 - 自由電子報3C科技",
           "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ETjlxaVAzNEptejBzS0tSQU5IQkVqZy01cVFHZ0R5UmRGNFJadi05SDY4M3hoT1dyajNpckZ1dU1PcGgtQjA00gFMQVVfeXFMT016OEIxd1dNTVlmRnIyd0NqWWZUbFpuSjBzdmpGOTJfa1RHbWJHaUJoY1FESGROR2hIR3hHaTQwRDJNRkF6Mm9CLXN5ag?oc=5",
+          "source": "Google News",
+          "date": "2026-09-10T07:00:00Z"
+        },
+        {
+          "title": "2026 Apple 蘋果發表會亮點整理：iPhone Duo 摺疊機重磅登場，iPhone 18 Pro＆Pro Max、AirPods 5 同步推出 - GQ Taiwan",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ueWVzNGlTTE9GbHJXT3RrX0Q2eWJzanozM2V6ZWVwdzJVejRXVXZqaEw0b2pjN28yd2hDOGVfeXdYWTVPSUcyOG41dld4bFpmNUxLRjQwS0pqRlpxVUc5QUxtY0I1UQ?oc=5",
           "source": "Google News",
           "date": "2026-09-10T07:00:00Z"
         },
@@ -531,16 +537,10 @@
           "date": "2026-10-13T07:00:00Z"
         },
         {
-          "title": "不只iPhone 18！蘋果10月發表會還有8款壓軸新品，M6 Mac、智慧家庭中樞將亮相 - 數位時代",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdkM4TVdtMjJqaTkyMzNWMV9EaUwwTHJCVHk1RkszeGdtN2duQVRzMkRwX2hNNVI3NFVKMms5RWNfdFhMN2s2QlVRaC1mcnpvbmRaMjJsTF9FaFI4ZHNJNTQ2Rldod3ROOVV6WVJIN1hmdnRGWnVZQ1ZVc2JkRlpwS3RXUTA?oc=5",
+          "title": "2026 蘋果發表會懶人包：直播時間、收看方式、iPhone 新品與預購開賣日期一次看 - 蘋果仁",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yM1FGYk9GSGNRLWtfOEF0OENjVFVmTWdrajdNVXM3ZmgxYTc1ejRfcEVXMFVmWTk1a1l0YXRwb2RsZHp6czlUS3M1WVY?oc=5",
           "source": "Google News",
-          "date": "2026-09-15T07:00:00Z"
-        },
-        {
-          "title": "iPhone 18e 傳與 iPhone 18 同為 6.3 吋、4430 mAh 電池！美國 Apple Store 訂閱爭議也曝光！ - JUKSY 街星",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9fNHZvclVFWTZTSEJpOTdWWnBZSm5idThRRmlWNEZtT0NHTGMtMUVQRGV5dEU3Mldmekd2ZnZLeHVVbURMMVVWMlI1eWY?oc=5",
-          "source": "Google News",
-          "date": "2026-11-14T04:25:15Z"
+          "date": "2026-09-10T07:00:00Z"
         },
         {
           "title": "特斯拉全新電動車官網開訂「新台幣98萬」！每月還要多付近1萬元訂閱費 - ETtoday車雲",
@@ -561,10 +561,10 @@
           "date": "2026-11-16T05:40:50Z"
         },
         {
-          "title": "特斯拉開放部分客戶購買 Cybercab，29,900 美元開賣 - TechNews 科技新報",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JcG1mNE8zUlgzSWZCdnhwZmxvaG5rcjJtcjl2RnRPNHJGQ2dzUXJGdU40R0FHeHhZYVZXSUdBdjFwdnRKSnU1a1dqV2Z5eU5ESUZMRHl6TTdPVkdfWEcwWTk2U2VGSTRhLUwtYVFQRkMzWUwtZF9KSnhoRHI?oc=5",
+          "title": "特斯拉變成遙控汽車！研究員實現Switch 2完整控制車輛 - 自由電子報3C科技",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBkUWF1ZFhZRHRkamMwOW9kU3dkZmZkMXNSMnBnWXd0Q0ExQ0l5SVQ2RmpqX3YxUUhqU0RET0RkLUQ0SDZ5X24w0gFMQVVfeXFMTS1Nb19BUUVaYi1XU0hmVFFSVUZPMDItQVR4YkNKeUJFdjRXaEVOcE1JWkhyVUNJS0JBWFJ3RzFtNnVBNXRwOWpRSWx4bw?oc=5",
           "source": "Google News",
-          "date": "2026-11-16T01:44:50Z"
+          "date": "2026-11-16T10:33:00Z"
         },
         {
           "title": "特斯拉Cybercab開放個人訂購 售價3萬美元 - 鉅亨網",
@@ -573,22 +573,22 @@
           "date": "2026-11-14T14:19:50Z"
         },
         {
-          "title": "Tesla 壽命最短車款，Cybertruck 明年停產 - T客邦",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUJXNjhBSTBqZW5FUl8yM1lnLW1halpkbF94V2h3VkgtWmdud2w0eTVocFB2OHZfcVJPcnAySFIzcVZvUXVJZUVteC13Rmo4bVNCdV9MWmNDOXU3WEUteE9TWVplWUM2U0djZlJPWHhDR3ZKcWgwVTRXTG9ObWNEQXlpU09sdTA?oc=5",
-          "source": "Google News",
-          "date": "2026-11-15T23:30:00Z"
-        },
-        {
           "title": "Tesla Model S、Model X告別車壇！特斯拉為何先砍雙旗艦？｜電動車大洗牌：下一台怎麼選 - Yahoo - 汽機車",
           "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOVU8tY0ZPa2NVeWJtMm1jZ0RZOHg4RjU3bHAyQjYzRGpvalFpMFFhX1R3N1Y3dDJMZVFINlVfeEVDbGJ2YzQ2YUt0VXl3dGYzMjBzV0haVVBHSF9FbFlaZWp1X3ItS0VvdlVDbElYOThTb1J6c2xWaDBrdWdWbXhweFlkVTdLUnV4bmt5S09hNnJrVk5WN0o4UFpQZkp5NHlSbUE4cm9TVkx4SlJSdHRnOGVzcWY1NW1GakFOX3diQlMzbi1jMTJ1cXpxNjVpS0o1QnlFTnRvOXRBMFBEVjVIRElHZ2tyM0JkQVo5aVNQT0RpQ2Nocm4tNWdpYUZpLXd2aXV2Ukl4QzJzd2U3TkdEQ2hVeDFPa3Roc0ZFVC1fWGN0UDl3S0dnRHVYQ096eHdjVzJfY0xpSkMtSUJqM2w1QjcwLWVtRGpwSUItQVdTLWtabUhtQVhKSGVrUFlwa0ZfTUM0b09YTHJNR1JoN2lIZVlRNzFlOHczYVplc2hobHpvbUF6MGJ3dVNZN0ZEa1gzU253NHV3?oc=5",
           "source": "Google News",
           "date": "2026-10-28T07:00:00Z"
         },
         {
-          "title": "Tesla Cybertruck台灣還沒交車美國先停產！馬斯克：產能轉給Cybercab - 地球黃金線",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Qd2M1cVM3b0JhcnhYQXFOYVRDVEVEZDJ1VXNVQ05aTUZnWGdlUU5vTDg1aEY2VFNiSUVFTmtZNkJQZllHaEpSZV92NWJxdG94elE?oc=5",
+          "title": "Tesla 壽命最短車款，Cybertruck 明年停產 - T客邦",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLUJXNjhBSTBqZW5FUl8yM1lnLW1halpkbF94V2h3VkgtWmdud2w0eTVocFB2OHZfcVJPcnAySFIzcVZvUXVJZUVteC13Rmo4bVNCdV9MWmNDOXU3WEUteE9TWVplWUM2U0djZlJPWHhDR3ZKcWgwVTRXTG9ObWNEQXlpU09sdTA?oc=5",
           "source": "Google News",
-          "date": "2026-11-13T02:32:00Z"
+          "date": "2026-11-15T23:30:00Z"
+        },
+        {
+          "title": "Tesla第三季超過4000輛Model Y抵港，年底即將再迎來大量交付？ - 地球黃金線",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lRkRBSi1sdXlpQWdwaGpJOEotRXhUSUFSeXZ1VFpRWWZmaXFlcFhscUp3ZXVjSnlsOXgwX0l6M29aaTVEQ1J3R2JpdkVral9Ob0E?oc=5",
+          "source": "Google News",
+          "date": "2026-11-11T06:48:00Z"
         },
         {
           "title": "科技巨頭罕見聯手 輝達、微軟、Meta、Google與OpenAI共同捍衛開放權重AI模型 - 鉅亨網",
@@ -597,16 +597,16 @@
           "date": "2026-07-27T07:00:00Z"
         },
         {
-          "title": "微軟請6萬員工「自願離職」，科技巨頭「裁員衝AI」的趨勢有多激烈？ - 天下雜誌",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwdDduY0FQRmNxX0hZdnBqWE5YNk56ajBlQ0s5VkNnNWhfNWZxMTRnZ05kdDRmcTh3TnBjQUxpMFBVZ1p0aGFXNl83UThyZw?oc=5",
-          "source": "Google News",
-          "date": "2026-10-27T07:00:00Z"
-        },
-        {
           "title": "美股四巨頭 | 2026 Q1 財報速覽｜微軟、亞馬遜、Alphabet、Meta 雲端與 AI 數據一次看懂 - 口袋證券",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41TTVTcnpmY3RvVUl1R2tfYVFoSHZqc1lxa0JUeFpmaXhodi14eUtLUEthX3E0NllWYlhmc3pZNHJYaWdiTkpLRk1pZC0tV3FRUEZMMnhR?oc=5",
           "source": "Google News",
           "date": "2026-04-30T07:00:00Z"
+        },
+        {
+          "title": "微軟請6萬員工「自願離職」，科技巨頭「裁員衝AI」的趨勢有多激烈？ - 天下雜誌",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAwdDduY0FQRmNxX0hZdnBqWE5YNk56ajBlQ0s5VkNnNWhfNWZxMTRnZ05kdDRmcTh3TnBjQUxpMFBVZ1p0aGFXNl83UThyZw?oc=5",
+          "source": "Google News",
+          "date": "2026-10-27T07:00:00Z"
         },
         {
           "title": "美股七巨頭今開獎！微軟、Google、Meta、亞馬遜財報，AI 資本支出牽動台積電走勢 - 動區動趨",
@@ -621,22 +621,22 @@
           "date": "2026-05-05T07:00:00Z"
         },
         {
-          "title": "Google、微軟、Amazon與Meta等科技巨頭簽署協議以共同對抗網路詐騙 - iThome",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52c1ZQWkdaYlpSVHJMQUhwZEJuNU13cm9pNFQwT3g1VC02bG1OaDRuRWxNSmtJekFGNHFQNE82QkFTX2dtS2xzMlNhTDlSQQ?oc=5",
-          "source": "Google News",
-          "date": "2026-03-17T07:00:00Z"
-        },
-        {
           "title": "【美股巨頭】Google限制Meta用AI，算力荒燒到科技巨頭自己身上了 - CMoney投資網誌",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM21ScFhjRXpUemJId3llVElNaUJSTEVkNkl4TFl5QmpCZUdnbUZFTmVSVDB6SmRienBHTlc5OFRqSmNKdFZXdmRKNHJqenp1eUh3ZjFtbFktbmJxenRZUlJMand3V0k0MjJoaDFBYU9CRDBRcmdPVE9mNjkzbXZQR29NZFhkMnlBQkRjWUR3?oc=5",
           "source": "Google News",
           "date": "2026-06-29T07:00:00Z"
         },
         {
-          "title": "美股七巨頭微軟、Google、Meta、亞馬遜財報開獎，AI 資本牽動台積電走勢 - 鏈新聞 ABMedia",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mTTl4R00wb3E3TFZjRE83SUdGeWZhUm13RllCVVBEajFfbEtlMDN0V25kNEJ0UVJCalB4cXBxU29JYkh3R1BRRUc2MGhoeUY1X081VlMyZnJfSEFaM0J3QTJ6MA?oc=5",
+          "title": "Google、微軟、Amazon與Meta等科技巨頭簽署協議以共同對抗網路詐騙 - iThome",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52c1ZQWkdaYlpSVHJMQUhwZEJuNU13cm9pNFQwT3g1VC02bG1OaDRuRWxNSmtJekFGNHFQNE82QkFTX2dtS2xzMlNhTDlSQQ?oc=5",
           "source": "Google News",
-          "date": "2026-04-29T07:00:00Z"
+          "date": "2026-03-17T07:00:00Z"
+        },
+        {
+          "title": "美股四大科技巨頭財報出爐！AI變現能力受矚 Alphabet狂飆、Meta盤後重挫 - 民報",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GZUsyYy1FMjlLZjF2d19VVWNFN3h5SlNKcXRtLXZYRF95WE0weGRxT1d5d2tRdzI4ZWlCdWRlZG50a2N5UFc4N21qdWNPXzBhRW40SVNaS0plOWlUS05vY1VublY?oc=5",
+          "source": "Google News",
+          "date": "2026-04-30T07:00:00Z"
         },
         {
           "title": "台積落腳高雄半導體S廊帶成形- 日報 - 工商時報",
@@ -645,16 +645,16 @@
           "date": "2026-11-14T19:00:00Z"
         },
         {
-          "title": "台積：半導體聚落難複製 - UDN",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rajZCNW5ocmRxcGtIdTdOWTYydkU0bUwzaHczM3RvRHFWT19HVTI5NHRrbWJsVHJkRXRVRWNaQ2N6U3V0TWhFb0VHMU5fTkRW0gFWQVVfeXFMTklLelVLOFBmNFIxRGxxTWJ2VEVQT0dMc1ZFd2s5bFhQSnRmdHVCY3JtTzhqUC1lYkJDX3RaRWhmeWo4d2dEd1hieW1ZT3poZzVrUXJxQUE?oc=5",
-          "source": "Google News",
-          "date": "2026-11-11T18:17:03Z"
-        },
-        {
           "title": "《半導體》台積擴大委外 精材搶進CoWoS - 富聯網",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeDhZWUtFUFZHUmh1YUhPeFdXYVp5ckVHOE5FWGZjcU5RLXVtRm05WUQ2ZzBiY1JRTTdQWXNWTnM3Q3ZyWTZyU0dNUnp2Y2kyR05KNU1mQXZSN2ZKaWpyd1FIcmhJRlMwelNRRk9MSWU0M2ZRQkZYVkg4SHdUbWNlYWdkTFVJZmxB?oc=5",
           "source": "Google News",
           "date": "2026-11-14T07:31:00Z"
+        },
+        {
+          "title": "台積公司捐贈清大高階電子顯微鏡，共創產學雙贏- 發揮永續影響力，驅動美好的改變 - TSMC",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52ajhEVzVzeVVXLWNtemQ2anNYb3hEenJxcTVKSFFUeUhiaU1CRHdHYTlST3UtSWtmNU53clVLcVE2OE9hV2stVQ?oc=5",
+          "source": "Google News",
+          "date": "2026-07-21T07:00:00Z"
         },
         {
           "title": "國內首家獲保育共生地認證半導體企業，台積公司打造綠色廠區新典範- 發揮永續影響力，驅動美好的改變 - TSMC",
@@ -681,10 +681,10 @@
           "date": "2026-05-18T07:00:00Z"
         },
         {
-          "title": "台積電也難逃！彭博爆美國晶片業「拉警報」 最大危機曝光 - 自由財經",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01dmRYQXZKTG5QbFMzandYN2VJSTNIekl2bjV1MGdYUndTRzBhVTRBWDNWWlVnV0dpM2p3TzJDSUtfZEQySWpUaTNiVVZacnRldy1vUFotV1VlLW9xYzdj0gFkQVVfeXFMUEw1TEttN1lla0FIM0hleU5GM3hRaVJ0Slg5TjJ1RWwxN2FWTU9fNTlWaFg4MGVYWFNYdzZNemZEU2cwTnNJMDVCeGFpN3QtQ2phNGFrQ0NuWVNZbmpqSUVNV2EzZQ?oc=5",
+          "title": "台積公司再生電子級二氧化碳，助力綠色轉型- 發揮永續影響力，驅動美好的改變 - TSMC",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zOFlURDVvWTRTc2x3dExxSUtHcmNxb21JRHlHcGlTaFhERkdjb21vU3EyZERBNVEyWWRYWVc2SGROamFKQlh5RQ?oc=5",
           "source": "Google News",
-          "date": "2026-07-08T07:00:00Z"
+          "date": "2026-05-17T07:00:00Z"
         },
         {
           "title": "Magnificent 7 Stocks: What You Need To Know - Investopedia",
@@ -723,16 +723,16 @@
           "date": "2026-01-25T08:00:00Z"
         },
         {
-          "title": "Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOb2k1YjhQRVFES01nTGtrRWI1ZVJPY0hQZzd1TVBRVUFFQVNQTFUzeGY5WlppMFFrT253SGc4MGpDTVVoZG1GMTVPVlJwWW5FS3V1QUtFMG9QZGFTc3FxTHkySDlFVEJ6TkRaUml4XzZSempsOXp0eHRHenlCSlNrclZ2NzJQdTJEUi1IM3V0ekVzNTRSQjlRVVNVOFdSYVdOeGFVUlp5U0tyZGROX0Y3aVNNQ1MtaDFOWjlKc1FyUElwdk85Y0NTTE84T0F5OEpubnE0X1M4b1l3aWd2R0lFb09UV3N1X21pZG8xeTNHUQ?oc=5",
-          "source": "Google News EN",
-          "date": "2026-07-25T07:00:00Z"
-        },
-        {
           "title": "Magnificent Seven stocks shed $2.2tn in Wall Street tech rotation - Financial Times",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUVyX2t2bEFsWDNOYUxxMUwydXMtMDMzd0t3Y0hlbUlyUWdqX2E5b1VOR0Y5dnVJZm11cFgwYzhDU0kyNzdic1MzM2NpQzE0TU0tOGZGMHlseWlQRWtzVE5pT2w2VTZjTjBaUnRqZ0pzQlE4YU92a2NBMVR5dVRTZGtLOVA?oc=5",
           "source": "Google News EN",
           "date": "2026-06-29T07:00:00Z"
+        },
+        {
+          "title": "Apple, Microsoft, Meta, Tesla Earnings: What Traders Are Watching This Week - FXEmpire",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWnRWWTNlTnpZWnNDZDdObWplbmpDdFRfR08yMHhMdTVJREhSQXZkRkd1YTdzRUhfNS15UDd1bGVGdmg0M2RDSGpjMG9RTkNtcGlRTlZ4UHJPWkc0QTZGV1pjTjg2bWlyRVdvX3d2Ql9mZ3I0cUhvUjB4NC1EWGszOVdLd2ZxZFBjNU1IMGJYdG90Z3BXSk5LaEFqQ3FhcXZmTmFkck1iWjBiX2pURTc4ZGpZZFVMM0JacmtSS3pYdw?oc=5",
+          "source": "Google News EN",
+          "date": "2026-01-27T08:00:00Z"
         }
       ]
     },
@@ -776,8 +776,8 @@
           "date": "2026-06-18T07:00:00Z"
         },
         {
-          "title": "什麼是降息？為什麼要降息？美國降息帶來的影響？美國降息歷史？ - StockFeel 股感",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUhqYXd2MDNVd0pJX2YwUDBiS244aGZ3XzAzcXZIcHVmeVVIbDloMGx5YnBpd0V3VnRLcUFtZDNkb3lLanJOblpiTVkwZlFVdXVrR3FaVzktaHdaTnJMYUJGR082MW45Szc0blU5X3Z4bXZNREozamphNUxIVFVvUFZ4QWQ3cWVIZlBzaDNrc2todzlJa29RWVZHUTdJWk91YS1kQmY0OA?oc=5",
+          "title": "最新 10 月 FOMC 會議結果？FOMC 是什麼？ 近期 FOMC 會議紀要？ - StockFeel 股感",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemtBdWl1N0pTTkZva25iVUJBdzNUY0dDd1cyV2dhS3dXb25Mel9RTDFIZHhKeUZVNzRUVWg5azBLMXpESGVyd2RYWW9YaTlUek9FbDh0ZWl5RmVLNml1MDNVTWVBUmY4QzhEeVhCTFRCenR4MUE5VGJtWXdueG5MSnJWNWs2a3c4QjA0RlVVT0l2cENyOUpaRXUxSzFTNjB5eW5ZQUtYTTVsOHhNby1hNUdISzM1aElzay04QlRB?oc=5",
           "source": "Google News",
           "date": "2026-10-29T07:00:00Z"
         },
@@ -800,16 +800,16 @@
           "date": "2026-11-12T15:44:38Z"
         },
         {
-          "title": "油價崩跌助攻！黃金站上4100美元 專家憂Fed升息刀未落下 - TVBS新聞網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZY2ZESjBJV1drZXo0RTdITEhwZlp5eXFpeVhNNlZvTnpPRFl5TFFYc21lek5MNFdOTndNRlFLVHFjRkdRdlVHVDZyT01BQVU?oc=5",
-          "source": "Google News",
-          "date": "2026-11-10T02:01:00Z"
-        },
-        {
           "title": "黃金收復3900美元大關，油價回落緩解通膨憂慮，市場緊盯美國利率路徑 - BigGo 財經",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjV2ExMW12WVcxSEcteXU5OFN3YS10SWtsTDdoXzZySnEwWkFXV0wyc1ExdURfZ09aS1g1MGt0UFRjWW9OQXpjazlQRTFnUGhlN3RZU2lEbll6WHZuMG4yTU9PZEFCRTVCcWhEQjdrbmRLN1RVcFR4Slp3?oc=5",
           "source": "Google News",
           "date": "2026-11-01T07:00:00Z"
+        },
+        {
+          "title": "油價崩跌助攻！黃金站上4100美元 專家憂Fed升息刀未落下 - TVBS新聞網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZY2ZESjBJV1drZXo0RTdITEhwZlp5eXFpeVhNNlZvTnpPRFl5TFFYc21lek5MNFdOTndNRlFLVHFjRkdRdlVHVDZyT01BQVU?oc=5",
+          "source": "Google News",
+          "date": "2026-11-10T02:01:00Z"
         },
         {
           "title": "黃金價格預測：川普稱無需與伊朗達成協議，金價大跌失守3900美元，10月PPI能否推動金價反彈？ - TradingKey",
@@ -830,16 +830,10 @@
           "date": "2026-09-07T07:00:00Z"
         },
         {
-          "title": "〈貴金屬盤後〉Fed在美期中選舉前按兵不動 金價隨油價上漲走軟 - 鉅亨網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yUko2WllNODg5M1VZOEhPVW5YVzc4aTFKLThTTmN2TzJ3TExqcVpVSGV1bl9WQW5QRWdieWZ5Vlo2VEpFc29CRmM2N1RJaGc?oc=5",
+          "title": "《貴金屬》通膨疑慮加劇 COMEX黃金下跌3.5% - MoneyDJ",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0dVYmFPWlhfYUhmdHZ6MEIyU0tvQk1Xd3E1cFFIMU1mOXZEZGdHTmNDUDBSZ0ZKaW05cXF3eTVVdDN5LXVfOVlUenkwZzhKRU40VFFCeGlLUjNWbXlMZ3V5VGw0bEFHaWRmRTdnR2hmR0F0OUVJZnNmNVlrUEJ6bnhJclJQcEFfa3pZaVgxdmlsUQ?oc=5",
           "source": "Google News",
-          "date": "2026-10-29T07:00:00Z"
-        },
-        {
-          "title": "美股大跌是衰退使然還是股市錯殺？手中股票該賣嗎？ - 鉅亨買基金",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjJJVDhQZzRqLTVIdmFIakU0MlZqMV8tTnVKVGJRTGUtY19MU25xMEJneGs1NFozeTlGZE02NWItZ190VzJFWk40STk3bmlLZ0RGS25RamowZktPcU9VRkRXajRNWWc5djNKM0lFYV9MeTVWNHpyN2o1dDZqVTF1WVN1aUhKSEpsSmNiNTd3VkZ3aDBMRUMzS0dn?oc=5",
-          "source": "Google News",
-          "date": "2026-11-10T08:00:00Z"
+          "date": "2026-09-29T07:00:00Z"
         },
         {
           "title": "美股恐跌近40%？經濟學家警告：巨型IPO抽資效應恐使股市蒸發1兆美元 - Yahoo股市",
@@ -860,12 +854,6 @@
           "date": "2026-08-20T07:00:00Z"
         },
         {
-          "title": "運動經濟藏在股市裡：從台股與美股，看懂運動產業的另一張面孔- 綜合運動 - 運動視界Sports Vision",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MSEU5b0RraXFiUktFbWVYZi02TUtMNVVGbUhGQjhGLUg0RWd2dXI1T0FXNkhfbXRRcV8yUEFSOVkxT3JncURpMHZQSEswRER4?oc=5",
-          "source": "Google News",
-          "date": "2026-09-29T07:00:00Z"
-        },
-        {
           "title": "商周-台股、美股創新高，5月該賣股走人嗎？2個數據要你再等等- 商業周刊 - 商業周刊",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPRUQwNTZwdUVUU3dZY2d1U1Z0OTRvMU1hSDhnRzJQb0pDckh5WXVFT00wWW10ZnVhaTJIT3VkYUVsd0hyMXotSWI2ODQyei12Vm1Sa3g1bWFOaE52bG1mZWhielVfUQ?oc=5",
           "source": "Google News",
@@ -884,40 +872,28 @@
           "date": "2026-09-01T07:00:00Z"
         },
         {
-          "title": "BTC 反彈至 6.5 萬美元，空頭回補還是買盤進場？ - 區塊客",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1BIQmxUQTk5cWFYVjBHSHFKVEtmSjJZbmhSSDhPVGFQMkVVd005c3czaUI3YkZPWE5EM0lISkUxaUM4SGtEcngxVFdkTk1FQ0FXbWNxb1RYajYzcVRtcXRSd1NOaDY0ODRnQjIzNEZnOWxZd08wQVU5Vkd4ZWhhbURWeUpzQTc3Rjhyemw3Q0cxNHlxUzdodTJB?oc=5",
+          "title": "運動經濟藏在股市裡：從台股與美股，看懂運動產業的另一張面孔- 綜合運動 - 運動視界Sports Vision",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MSEU5b0RraXFiUktFbWVYZi02TUtMNVVGbUhGQjhGLUg0RWd2dXI1T0FXNkhfbXRRcV8yUEFSOVkxT3JncURpMHZQSEswRER4?oc=5",
           "source": "Google News",
-          "date": "2026-11-16T04:51:35Z"
+          "date": "2026-09-29T07:00:00Z"
         },
         {
-          "title": "何一：比特幣長期邏輯依然穩固，波動不可避免 - 鉅亨網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6ZFJUZEh3RG1DaDBZcWVlQjRON2hZSjZSaW9IZ2Q0MG91U0hydmNnWVRHV19qWlR5NVpfYlZYQm50bEJEVFdpZEJZNWxPSU0?oc=5",
+          "title": "AI疑慮與經濟逆風夾擊 美股重挫科技股一片慘綠 - Yahoo股市",
+          "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQY19xbVFtMnh0Q3FPUWtFaUpjRWs3aXdXeURJZG9wQmR1dUNnSl9FLXM3UVNtZmIxRHp3TlBEdy10dHlmTHVQaC1XaHdLODkwZzJSSmo3T3NFeTB6aHpWNWs2d1llTktPS0xUV0dzOUkxZExlTWd2Y1BCVXF1SHEtTEhSNHlNbU5RRTBDekxUNXcxNlp5MndDajVzUkV5NHhHbnlnSG9oYWN3ZS1fVHRocGFuMUlOSGFpNHVibXM3WVpBVjB5UHFDTmhEUzVubDdqLWl1dzhKOWdEVlROcUdlY1JobVBoRE95UE83U0NOeEFFd0sxMkpaRGpXcU5FNTAzUmhUeXd2Sl9JMi02YUc3TWZuZHB3c0ZBR2tZQ0hqSlJXMl9kb3dCWlFvVWpzMFV4OUx2MHY4VFJjdVVDYV9yNTFnUHQ?oc=5",
           "source": "Google News",
-          "date": "2026-11-15T14:05:04Z"
+          "date": "2026-07-23T07:00:00Z"
         },
         {
-          "title": "比特幣單週重挫13%，市場退守6萬美元整數關卡 - TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc1BEUDhYMVdFVXhNQ3R2azF2c1FVYTA1bEVISWhsRTA5QWhYSzlTLWJzUDdwazFsN2tfY3RkSWw0WHdNeXlxQ0lxdk52Z0R1Yl9NZWxRSDllNVpfdXo1eTRHc0xPN1lYYm1xSzg2azQ4ZFFwVHJwMy1GU1AyTzJRZXRyT3dhZmxHTjhEZkhpSHc3enJRMzhISVQyRllnSkwyYUU3VzZIdFJUdl9RQmZscktnSVgwejhKZHFMak43YlcyTnJYdnNhYXV6QQ?oc=5",
+          "title": "Strive增持251枚BTC，比特币持仓总量升至43,404枚 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1zXzFGUWNncV9nd1pBWGJNZlRwSkt1ZTUtcU9WUm84ejgzT2RmblFaOS1DcldaV2dlMHdzcms0R0gza2FZS1BZbVY2OEx0Z2pIVUtqQjNtSzR1eFE5cjZUaUN1cFpPZw?oc=5",
           "source": "Google News",
-          "date": "2026-11-16T02:04:05Z"
+          "date": "2026-11-16T13:03:35Z"
         },
         {
-          "title": "【Bitcoin】比特幣周末曾插至近62000美元水平 最新於近65000美元關口回穩 - 香港經濟日報HKET",
-          "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxNVkQ1ZWpMTXFfZ0d1V0tQWWc1WGc0UFFWRmczd183Sy1PdkxFYnk3Q2VRVmQzRzNQU2ZLRWRXaUF4eTdxT0pOS3ZfNHNoUll0YjZfVlhLTDdTaXBEMm1RRnI2SWVMamNsWWRfeVFzQzBZcG1YT291d05ZMklCOHVPSFlZQ1Nwc0kxMThXTEZMeGJPeTJsV0pURkZ6NHBtalIwdC1sU1l4SFRydzkzcFVBWkVtOFh0M2UyVEdMRW1ZT3RpLVRrbmFzQWVfTklHbkdEb1dFZ1hOVGdQYTJZMVlwVEoxbjl2SkdDQVY5dTV2cV9jb0xIdTBNUEh2WHpuTVpkR1BIT0h4amxlV1NtWDJwRzRFY0pHRGpYUUlhaU1iZXE3UTdvQ3dJMmFTbzVNR3RYbkJrcldlT2hhS2o5VUROMkd2TW1CWmFEWEZWOWVYdWNFNUxldEJjbTZHNHdGdXE3ZTVYWERXWFpsWFlwQXFIelFJenJGSFBUSWRlZkpSc3p4c3lXcmRmSGQ3dTNRZVlqLW9QeUxmRkFmZVkzRC1tQUtmYk5GS21CQ3c2Uw?oc=5",
+          "title": "Strategy上週增持485枚比特幣，回購2.28億美元STRC - 鉅亨網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51bmdxcG5pWW96R2g0MHc5bWpObU5WMng2ZG9FU2pEZV9BZTBla1J0TzAtMVBCQXA4d0thZEpmbC10MXlOTTgzRnpoUXBiMFU?oc=5",
           "source": "Google News",
-          "date": "2026-11-16T01:53:58Z"
-        },
-        {
-          "title": "比特幣剛連續五週收跌，風暴恐尚未結束 - www.tmgm.com",
-          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQkl5bFM0d3d2emNVaFdZc2tXbjVoTk1NX2gxLURGRTVnNVZyOFhDVDl4SmFOTDhwM1JGU3dkcGUxaWhvVmowYTNJbzBNajRHVlNTeWlMamxKRWVOQTFIaTIxS2dudlpaT0JxT2ZWdmJ5YlpPc2RhclQ2NVVIUFVWdHUzOHhyempqWFFMUXB5aHhUUzdXVUhrcHFrdjJYOEJ1SHd3NUtlSmdzWnVhazhZU2pZZUxPRG1rZnlLeDkxOWtOQVRQRTZ5S3duTTI3RnE3WjhVMmZoSnZBNTNQaEtlbQ?oc=5",
-          "source": "Google News",
-          "date": "2026-11-14T08:50:17Z"
-        },
-        {
-          "title": "美國比特幣現貨ETF七天失血19億美元 多頭槓桿斷頭潮湧現 - 商傳媒",
-          "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPc0JTTzFXOFQ4U0RrVi02bUpGbnRnZ1BQSG5EMzBua3RuQ0w5Tmdva0JxSEVPank0YWhSZ0lhNFdDWHRPejlUTWcxdWcwUEJWUXVjQ2NDQ2RCTU1iNWUweE1IYmZzYWxFSVJvNmFHaFpDaUZjYWp4RFQ0Y1Y5UXhXUXNPT3gweVVvTDdQUXV2NG9qY0pWQzV0WVNXTHAycjE5akFubVYxYzIyTW5TZUk2aXVneXNnUXNlVWp1X1ZLN0FtZDNXWmpHbERCZjRUSEVuUVB0Rm5RV0NpQXdmdk51LUVNZWUxdWsza2lrZ2JvSVFqSklYWkIwS3hZOVEtMDNrSGxuVXRXblNPNGZOQWs0Uk9TdmlsZ181UGhXQ3pGZEg0SmRBVEZ5Z1hFeTdTZnhRMTVjLVNXWGo5WFJSNHhDNm5GTUZzWm9YdF9tSFFncXBzWl9PcDdHamUzUm1fZVhRNDVqTTNVSTdmZGVtRUJjNXdVNG8wU2FCX2RoMXJR?oc=5",
-          "source": "Google News",
-          "date": "2026-11-15T22:51:27Z"
+          "date": "2026-11-16T14:05:57Z"
         },
         {
           "title": "比特幣暴跌至 6.2 萬美元後急拉！ETF 連 7 日失血 19 億美元 - 區塊客",
@@ -926,22 +902,70 @@
           "date": "2026-11-15T02:28:05Z"
         },
         {
-          "title": "賣幣籌資搶進Anthropic IPO？比特幣周跌近10%失守6.8萬美元 逼近牛熊分界線 - 鉅亨網",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSb2djRVRtYWl1REQtNFQ3eHFMMFYxLVdocGtCRmVLOTZBOE41ZjlFRDR2TmkxS3dSQXpna3ZDR1FkM1IyMXd1LWN1c3ROZmM?oc=5",
+          "title": "比特幣價格預測：ETF 資金流出達 10.7 億美元，BTC 力圖從超賣水準反彈 - www.tmgm.com",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQnFBQ2hoUTgwVmxkNVRheGxqRXl6bEhpS29ZZV84UWJ0SnpndFlYbzZRSzNWbVFXbkVjMzlZYzE3cXdTeGsxaUJ0VFhGQ21YNGZ1dTdtT2l1X0oxNVZCNDJuMDRMQTA2WWlpY3lVNG1jWXAwS1VteWNhb3N2T3Y4bVh0QTVHWXlldWVQa3pNaFRLTmR4OXlkb2EycTUyQi1fc0RQNU5RV1hZSzJLd2hEcXhMU1BiNWd3VFE5WndkNnRmMUxBbVRwTnh4dUtMTEVTTVJ5SDQxanhPVkhZZEJVaU5uNUtVZzNFT0dXUlA0SUVHa1FBSkRQMGliaGRiQkty?oc=5",
           "source": "Google News",
-          "date": "2026-11-14T08:40:04Z"
+          "date": "2026-11-16T10:48:15Z"
         },
         {
-          "title": "Charting the Global Economy: Inflation in US Exceeds Projections - Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMnhYS2hsVENzOW9lbGxhZHNXZGptazRlOW5IUk1MRThqUi02N3N6VklkTDVnMk9DT3lKWVNJVzBacW5zVUNEamw5TzhtTWluRVNheC1pcDZFUGVEREZHMG5aVGxXT1RQVEQ0Q1dnT3BWMHNQMkFUWWZZeTZaWkQydWtvVEctbnpnZWV0MExYa29fTEZjcFJjemNHSEpjdHM5Y2tsZkpUYkhrX0xRRU5ybTNxTDM?oc=5",
-          "source": "Google News EN",
-          "date": "2026-11-14T10:00:00Z"
+          "title": "【Bitcoin】比特幣周末曾插至近62000美元水平 最新於近65000美元關口回穩 - 香港經濟日報HKET",
+          "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQMmdwczh2NDhOd1ZtcG8yQ1ZhektYRmlsYnJuN2UtQWZtV2lldWJQc0JoS0NCcWlETDMxV3R1M2Ixekt6Y185U1VEcVV4bXR6M0FlbkVGd3ZKWjlPVVJqaG5DRk1IcjhFTE9RY0J6TlpyejVtTHc5aEJxWTdRU0xiVzZwOFQ5QW5PWXhzMnBsTWFqSU1BdXFtNm5jNk5TWDNzOXpTYzdYbjNKZDRORnBicjR4bWotb3dsZV92MVdVV09VcXZxa2Fua0lnQ3dtTEl0Ykd6OXZRSlQyTGNpNmM1cTlYQ2RMallPMTJnWlVRVk56MEZ6RFUwaXVkZmViZTF4a2lWblczS3F6Vno1V3k0Z2ZzWXBhcUNYZk1JakliRFNadkluWG5yOVZvNW0tbm9ZOE1wSkRScDduSDZDWmFNb3BrR19Dc2UzVjBUandVbXd4cXhzRy1JLVdmUVU3REhZM09fZWdvNmNQc2pINzBrSDhIZTd4cHlHbmF1MW9yZWZfX01WZWk3UnpuMkdYZ0FsMzhQRzRhUldkV0VIUG0w?oc=5",
+          "source": "Google News",
+          "date": "2026-11-16T01:53:58Z"
         },
         {
-          "title": "Fed's Collins says gradual rate hikes best to manage economic risks - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbHZfX3JqempNenlnSUpVcTd4dXY4djdJU1c2VkZ2Um5fYXkyVTMtYUxBZlBrcXVqQXJkQ0RjejZRQTdBLWxPYzcyRDBfTGxmdUVTekN0TFFWdHNfZFh6ckt0c1RCTVBwZzZjZ3NacWJWSDhvMVRGVDNpR0o2YTBwdmJILTE4eWs2SlQ5YnVHN0ctMFM3bWJsQkhtblRUMjI0amRHcFZLaXNaWWJz?oc=5",
+          "title": "比特幣價格跌至6.2萬美元：升息陰影下，6萬美元守得住嗎？ - TOP1markets",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1pzTWxEZEJvdTVYa2JKaTM3U3NKXzlVWmx2cHpMSzFSb2NCWEoxdFdTU3U4Q3NqYmhyQU40N3hVQUpQT0NvVmRxS2tDMF90M1hmUXQ1WGFiNUZBSmNjS3NjNGpsN2VQbnhhR3BWMWJmZFRFMDFIcl94ZC15VWRRZGE1dGVfbC1CQnZVazZkaURkNUpORTVodWFzS3lwd3FfcVZUMXFWQQ?oc=5",
+          "source": "Google News",
+          "date": "2026-11-16T02:44:50Z"
+        },
+        {
+          "title": "比特幣單週重挫13%，市場退守6萬美元整數關卡 - TradingKey",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQc1BEUDhYMVdFVXhNQ3R2azF2c1FVYTA1bEVISWhsRTA5QWhYSzlTLWJzUDdwazFsN2tfY3RkSWw0WHdNeXlxQ0lxdk52Z0R1Yl9NZWxRSDllNVpfdXo1eTRHc0xPN1lYYm1xSzg2azQ4ZFFwVHJwMy1GU1AyTzJRZXRyT3dhZmxHTjhEZkhpSHc3enJRMzhISVQyRllnSkwyYUU3VzZIdFJUdl9RQmZscktnSVgwejhKZHFMak43YlcyTnJYdnNhYXV6QQ?oc=5",
+          "source": "Google News",
+          "date": "2026-11-16T02:04:05Z"
+        },
+        {
+          "title": "分析：當前Binance上比特幣現貨「暴跌保護牆」規模約2000枚，最低掛至5.4萬美元 - 鉅亨網",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9id1BPTWxBZTdwbDVVVHpxMklpN2dtYzk0RUdFZmR6OEx2MFFlSTZoMGRHWFdSRUw5dUZQRnVjTFpjTk54TlBzenBLV2hHd2s?oc=5",
+          "source": "Google News",
+          "date": "2026-11-16T10:05:07Z"
+        },
+        {
+          "title": "Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk - WRAL",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVi0zMjVmenVtRjVlV2VnUVZhYVRQZlZvQ0tnT29zWGZYZDJjNjBKWXRRY1R3UWI2cE9hTXp5VmpRd0hGVkJ6d09CQWJYdUxxSXMwUFhaVERTNlAtbUhvcjE1Y3p4SmkxUnppdU1ielozcVhQOU1DSTl2aExRTDFJLUVGeDZRazA1bWVWN3Y3OGpkMS1nZG00eHlvaGxRMkRiMnlack1HSW5GTWRtRVdTSzdYWVR4SjZ1S1pVVUJR?oc=5",
           "source": "Google News EN",
-          "date": "2026-11-14T15:47:44Z"
+          "date": "2026-11-16T17:25:46Z"
+        },
+        {
+          "title": "Fed's Jefferson says he is taking his policy cues from inflation - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
+          "source": "Google News EN",
+          "date": "2026-11-14T00:03:00Z"
+        },
+        {
+          "title": "Trump Heads to Asia as Economic Week Focuses on Consumers | National News | U.S. News - U.S. News & World Report",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWERJU3hUWWxMVUJlYV9SWlpBR200bVdpZGJFWjh0RW5RWF9mc3RsUW1BMmlDUW5IQXJSZElGRVpyUkNMUS1iM0I2bTZoT2Z6THFER0hDYnZXSG85dXoyVU41VUV5WUNfSzg2aVVfUVJjZVlnekdaOHZCdi1nWkNjWVVIekRnSEViQWN4YVU0LXotS05WejRKYzRhenVuWUI1RXltX3B4R0tYaUJkUEs3eGczc0Zrdi1yWnZV?oc=5",
+          "source": "Google News EN",
+          "date": "2026-11-16T14:10:00Z"
+        },
+        {
+          "title": "RSM’s U.S. outlook for 2027: Growth amid rising risks - The Real Economy Blog",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRElMMnNJQXNwaUpiVGZTOTgwSnFmekI1ekhGYUhMb3lvSjBRWTZjMlVndkhuM2Z0eXFTV1VVR21MbDJ3eFhQUjRTQklWOWF4d1BWVWhjRU9PT01Wb0VWd181NTFYVHh3MndUQzdLam05TUo3QW5lV250YWVxVGpub05YcXliSGoz?oc=5",
+          "source": "Google News EN",
+          "date": "2026-11-16T10:50:12Z"
+        },
+        {
+          "title": "As higher prices seep into broader economy, Fed officials consider faster hikes - AP News",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3ZpVWRoY3RSb3kwZlFESnhfbnluX0stOC01UWxwckhXRTZVdkxXS3c0WnZFUW03QjFmVlRzUkc3YUpZeU15d29vYjQxdFpjLVpiR0FKMDY0em1paFlMaWxFaG81MFBpVnFjd2ZhdGs4NUpVbF9rTG52bVlKc09BT0ZqamxubGExMERXcHRqNko0VENJSTZkb3JWVG0?oc=5",
+          "source": "Google News EN",
+          "date": "2026-11-11T13:02:00Z"
+        },
+        {
+          "title": "Post-election economic reports make Fed interest rate hike all but certain - Washington Examiner",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmo1ZUZwLWlQX1I2TkU1QVVNMXMwSzBiT21EUzFCTWFDbG5FZ0tJbVNJQVJpcldsOF9RbEVpbTZORzF0RnotSTRpa2YwdVlaU29rRGN5bHVqNW9tWVJEZktHd29SLTM4STRndC1iSnV4VThJVVpxNmsxMEVxMm92cW9PUVllMWRKclF3VTRWTnU0eXhtSFQzOTF4Mm9yaldkSTNn?oc=5",
+          "source": "Google News EN",
+          "date": "2026-11-16T11:00:00Z"
         },
         {
           "title": "The AI boom has handed the Fed an inflation problem that rate hikes may not fix - Marketplace.org",
@@ -950,34 +974,10 @@
           "date": "2026-11-13T22:15:00Z"
         },
         {
-          "title": "Wall Street Slams Fed's Rate Freeze; Bank of Korea Also Criticized - 조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFhlMk9GRllTSG1RUHVKUWNXeWMydDJ5cnZwZGJxNHdIQ0dZQjlpZ1FIYmZMSWJVNlBJUkZVNzB3bVMxRmtTRS1KeUFTbmlmRmlZX0htMVFxdHV6bjEtcFhxcnh4QWlGUkhTU09jMXcwaGxfRVd0emNJUkI0dFk3ZDJVM2Rub3FCNGxaaDNR?oc=5",
+          "title": "Fed Chairman Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk - Ottumwa Courier",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdldtNUlXU01JQ19BZFM0OFZ5UU5pSXgwQmc1SkJpbldEVWthZXlxWUNPWGNkcnVaQVJZUzlheXNER3BpcnNYZXNjdFMtSW0zQlRTaDV5ckhrN29CVEpPc3VmdEdJem5FX3ZFTmt0ci13R1pYeVhWRWZJYUpBYmo2bW1uQUFvaXpjTzVxX3k0UWplQjd4VXFtNkdoRlFOYmgxMTVJZ2pyWmZoNkk3WGRQd1ZXRW54aFNEdHMwRWJEUEZvOFZaMFZ2UDY5dTlFaFhXTHgtZHRaMkVBeld3Z08zV09GQmdQQ1RWZVhyNVo4b3dfMThIempfbWJ3TmhzUWdhQWh1RUNsQS1wc2ltbkduVlFpbUNvWEk?oc=5",
           "source": "Google News EN",
-          "date": "2026-11-16T06:33:56Z"
-        },
-        {
-          "title": "Boston Fed President Flags Broadening Inflation, Hints at Further Hikes While Stressing \"Gradual Pace\" - BigGo Finance",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EMmQ1bHZTd09qRzR2Z2U2d2daUm5UVWxaQk9XeWVIYjJUMUQySnFZSGxUTzBSRlBGQVJQa2ZPSm45eU5QQVZCaFA2QXl6NHRtczk2NDBBUk9UQkNBQjRVZmpUS2RNNmF1U1pXaUZtSXA4S0xmblE?oc=5",
-          "source": "Google News EN",
-          "date": "2026-11-16T01:05:00Z"
-        },
-        {
-          "title": "Inflation isn't going away. Here's what that means for interest rates. - CBS News",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53dzBGV004V2lLZGdMR2FUVjByX1E4Q3BCemoxSzhCWF9YVEpJZUo4ejJlcktSeGdSWEozX0NFaEc2V29IYVJaZGpfN2p6WmNaeWpDa0dYc25LaU9NdVJJS1o2d290X2R4S3ZCWlpELVpraUc2bm42VXRn?oc=5",
-          "source": "Google News EN",
-          "date": "2026-11-13T20:19:31Z"
-        },
-        {
-          "title": "Fed’s Collins Says Inflation Fight Outweighs Housing Woes - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLWNWM3ptZWVMSTZ2Nm1jY2JQU1pXZ3l1Q01qdzAwV1YwbGxPN2JIY19pTmNiTmV5eFA3c1lkQklsX2JKV1BuM2haS09HU21XSk5DT3FvRG5vSkEyNGlLalJMNTZfQ3hCTlM5SVBGY3NBb2xDTloyYmtidHdKNE5YZnNUREI3dk5ZQ01UdVpKaC1MQkJJbkF0V2o5QS1RQQ?oc=5",
-          "source": "Google News EN",
-          "date": "2026-11-13T14:10:00Z"
-        },
-        {
-          "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
-          "source": "Google News EN",
-          "date": "2026-07-17T06:37:05Z"
+          "date": "2026-11-16T18:10:46Z"
         }
       ]
     }
